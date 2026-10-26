@@ -1,0 +1,631 @@
+[
+  {
+    "slug": "tacchat",
+    "title": "TacChat",
+    "theme": "#edcab0",
+    "category": {
+      "zh": "无障碍研究 / 触觉交互",
+      "en": "Accessibility / Tactile interaction"
+    },
+    "summary": {
+      "zh": "让难以用语言描述的图形，也能被创作、修改与分享。",
+      "en": "Making graphics that are difficult to describe in words easier to create, revise, and share."
+    },
+    "period": "2025.05 — 2025.10",
+    "role": {
+      "zh": "团队项目 · 论文第二作者",
+      "en": "Team project · Second author"
+    },
+    "tools": [
+      "用户研究",
+      "实验设计",
+      "SPSS",
+      "MAXQDA",
+      "Overleaf"
+    ],
+    "cover": "/current/tacchat-cover.webp",
+    "sections": [
+      {
+        "title": {
+          "zh": "从盲人学校里的疑问开始",
+          "en": "A question from a school for blind students"
+        },
+        "body": {
+          "zh": "“高铁的车头长什么样？”“到底什么是正方体的透视？”在盲人学校的交流中，学生提出的这些疑问，让我们意识到语言并不能完整传达空间与形态。为了帮助盲人和低视力人群理解无法被触摸的三维物体，我们开发了支持触觉图形创作、修改与传播的服务设计系统。",
+          "en": "“What does the front of a high-speed train look like?” “What is a cube in perspective?” Conversations with students at a school for blind people revealed the limits of verbal descriptions. We developed a service-design system for creating, revising, and communicating tactile graphics."
+        },
+        "images": [
+          "/current/tacchat-interviews.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "让用户成为图形的创作者",
+          "en": "From receiving information to creating it"
+        },
+        "body": {
+          "zh": "系统串联三个阶段：探索与创作、转换与修改、分享与交流。用户用 3D 打印笔绘画，通过 TacChat 上传并转换为触觉图形，再在可刷新触觉图形显示设备上检查和修改。其他盲人及低视力用户也可以触摸、理解和回应这些图形。",
+          "en": "The system connects three stages: explore and create, convert and revise, and share and communicate. Users draw with a 3D-printing pen, upload through TacChat, and review the converted graphic on a refreshable tactile display. Other blind and low-vision users can then read and respond to it."
+        },
+        "images": [
+          "/current/tacchat-usage.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "通过任务表现与体验反馈检验系统",
+          "en": "Evaluating task performance and experience"
+        },
+        "body": {
+          "zh": "项目实验记录显示，相比对照组，使用 TacChat 系统的参与者完成任务的速度提高 25%，准确率提高 20%，做决策的时间减少 33.3%。这些数字分别对应不同评价维度。参与者也反馈，系统易于使用，有助于触觉内容的创作和分享。",
+          "en": "The project’s experimental record reports 25% faster task completion, 20% higher accuracy, and 33.3% less decision time than the comparison condition. These figures refer to distinct evaluation measures. Participants also described the system as easy to use and supportive of creating and sharing tactile content."
+        },
+        "images": [
+          "/current/tacchat-results.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "从研究到公共展示",
+          "en": "From research to public exhibition"
+        },
+        "body": {
+          "zh": "研究成果发表于 CHI 2026 Extended Abstracts，我为论文第二作者。系统于 2025 年 6 月 16–21 日在联合国日内瓦办事处“人人享有无障碍环境：共建包容性未来”展览中展出。",
+          "en": "The work was published in CHI 2026 Extended Abstracts, with me as second author. The system was exhibited at the United Nations Office at Geneva from June 16–21, 2025, in an exhibition on accessibility and an inclusive future."
+        },
+        "images": [
+          "/current/tacchat-exhibition.webp"
+        ]
+      }
+    ],
+    "contribution": {
+      "zh": "参与系统流程设计，负责实验设计、用户研究、数据分析与论文写作。",
+      "en": "Contributed to the system workflow; responsible for experimental design, user research, data analysis, and paper writing."
+    },
+    "student": false,
+    "progress": false
+  },
+  {
+    "slug": "sense-together",
+    "title": "Sense Together",
+    "theme": "#7edbe0",
+    "category": {
+      "zh": "服务设计 / 无障碍体验",
+      "en": "Service design / Inclusive experiences"
+    },
+    "summary": {
+      "zh": "让不同感官需求的观众，都能参与音乐现场。",
+      "en": "Opening the live-music experience to different sensory needs."
+    },
+    "period": "2025.05 — 2025.09",
+    "role": {
+      "zh": "个人项目",
+      "en": "Individual project"
+    },
+    "tools": [
+      "用户研究",
+      "服务设计",
+      "Figma",
+      "Blender",
+      "CAD"
+    ],
+    "cover": "/current/sense-cover.webp",
+    "sections": [
+      {
+        "title": {
+          "zh": "音乐节里，谁被留在了体验之外？",
+          "en": "Who is left out of the festival experience?"
+        },
+        "body": {
+          "zh": "参加 2025 年河流音乐节时，我第一次在现场看到了手语翻译。这让我开始追问：听障人士如何参与以听觉为主的音乐节？后续接触中，我了解到部分听障观众仍保有听力，却因“听不清”难以充分参与；视障观众也会因为拥挤环境与碰撞风险而不敢前往。",
+          "en": "Seeing sign-language interpretation at a music festival in 2025 made me question how hard-of-hearing people participate in an experience centered on sound. Subsequent conversations revealed difficulties understanding lyrics and performance information, while blind attendees also faced the risk of collisions in crowded venues."
+        },
+        "images": [
+          "/current/sense-research.webp",
+          "/current/sense-quotes.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "不同需求，需要不同支持",
+          "en": "Different needs, different forms of support"
+        },
+        "body": {
+          "zh": "“要是有栅栏把手扶着就好了。”“我需要实时歌词，因为离得太远我没法读唇语。”这些反馈让方案从单个设备扩展到完整服务：把可穿戴设备、App 与现场观演环境结合起来，分别回应内容获取和安全参与的问题。",
+          "en": "“A railing to hold onto would help.” “I need real-time lyrics because I cannot lip-read from that distance.” These accounts shifted the design from a single device to a service connecting wearables, an app, and the venue environment, addressing both information access and safe participation."
+        },
+        "images": []
+      },
+      {
+        "title": {
+          "zh": "把字幕、节奏和安全感带入现场",
+          "en": "Bring captions, rhythm, and reassurance into the venue"
+        },
+        "body": {
+          "zh": "针对听障观众，我设计了实时语音转文字的 AR 眼镜和随音乐节奏振动的手环。针对视障观众，方案提供带护栏的专用观演区域。配套 App 将服务、求助、通知和个人信息组织起来，让不同辅助需求的观众找到对应入口。",
+          "en": "For hard-of-hearing attendees, the concept includes AR glasses for live captions and a wristband for rhythmic vibration. Blind attendees are supported through a dedicated viewing area with handrails. The companion app organizes services, help, notices, and profile information around different assistance needs."
+        },
+        "images": [
+          "/current/sense-solution.webp",
+          "/current/sense-apps.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "用户反馈与下一步",
+          "en": "Feedback and next steps"
+        },
+        "body": {
+          "zh": "测试反馈中，视障参与者认为方案能带来更多安全感；听障参与者认为实时字幕有助于参与音乐节。当前成果是服务方案、设备外观与界面原型，下一步需要继续验证现场协作和设备联动的体验。",
+          "en": "In feedback sessions, blind participants described a greater sense of safety, while hard-of-hearing participants found live captions helpful for participation. Current outputs are a service proposal, device appearance concepts, and interface prototypes. Further work should evaluate live service coordination and the connected-device experience."
+        },
+        "images": []
+      }
+    ],
+    "contribution": {
+      "zh": "个人项目",
+      "en": "Individual project"
+    },
+    "student": false,
+    "progress": false
+  },
+  {
+    "slug": "vitalride",
+    "title": "VitalRide",
+    "theme": "#c5eaa1",
+    "category": {
+      "zh": "可穿戴设计 / 人机交互",
+      "en": "Wearable design / Human–computer interaction"
+    },
+    "summary": {
+      "zh": "在“再忍一下”之前，让骑手看见身体的信号。",
+      "en": "Helping riders recognize their body’s signals before pushing through the heat."
+    },
+    "period": "2025.06 — 2025.10",
+    "role": {
+      "zh": "个人项目",
+      "en": "Individual project"
+    },
+    "tools": [
+      "田野研究",
+      "Arduino",
+      "Figma",
+      "Blender",
+      "Fusion"
+    ],
+    "cover": "/current/vital-cover.webp",
+    "sections": [
+      {
+        "title": {
+          "zh": "高温下，停下来并不容易",
+          "en": "Stopping is difficult when every order matters"
+        },
+        "body": {
+          "zh": "街头访谈中，骑手告诉我：“四十度的高温天气里，能忍得住高温的人才能接到单。”订单压力让他们不断推迟休息。我因此关注热射病风险，以及如何在骑手意识到明显不适之前，提供可理解的身体状态提示。",
+          "en": "In street interviews, riders described feeling compelled to keep working in extreme heat to receive orders. The pressure to earn delays rest. I explored how understandable feedback about bodily status might help riders recognize heat-related risk before discomfort becomes severe."
+        },
+        "images": [
+          "/current/vital-fieldwork.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "把身体数据转化为提醒与行动",
+          "en": "Translate body signals into feedback and action"
+        },
+        "body": {
+          "zh": "方案包括可穿戴背心、头盔和配套 App。头盔包含降温 PCM 圈与微型风扇；背心和传感器用于探索姿态、心率和温度状态感知。App 展示生理数据与设备状态，将异常状态转化为提醒，并探索与降温装置联动。",
+          "en": "The concept combines a vest, helmet, and companion app. The helmet includes a PCM cooling ring and miniature fans. Sensors explore posture, heart-rate, and temperature monitoring. The app presents readings and equipment status, translating unusual signals into alerts and exploring a connection to cooling components."
+        },
+        "images": [
+          "/current/vital-concept.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "从传感器读数到原型验证",
+          "en": "From sensor readings to prototype exploration"
+        },
+        "body": {
+          "zh": "通过 Arduino 连接姿态、心率和温度传感器，测试不同状态下的读数与反馈逻辑。身体倾斜与生理数值变化对应不同状态显示，为后续自动提醒和降温联动提供原型基础。当前展示的是传感器试验与交互概念，完整系统效果仍需进一步测试。",
+          "en": "Arduino experiments connect posture, heart-rate, and temperature sensors to explore readings and feedback logic. Changes in tilt and physiological readings map to different status displays, providing a basis for further alert and cooling prototypes. The current record demonstrates sensor experiments and interaction concepts; integrated performance still needs testing."
+        },
+        "images": [
+          "/current/vital-hardware.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "把提醒放进真实配送流程",
+          "en": "Place feedback inside the delivery routine"
+        },
+        "body": {
+          "zh": "使用故事板展示骑手在劳动过程中接收异常提醒、查看状态并采取休息或降温行动的情境。设计目标是减少对主观感觉的单一依赖，让身体信息更容易被察觉和理解。",
+          "en": "A storyboard follows a rider receiving an alert, checking their status, and taking a rest or cooling action during a delivery. The goal is to make bodily information easier to notice and understand alongside the rider’s own perception."
+        },
+        "images": [
+          "/current/vital-storyboard.webp"
+        ]
+      }
+    ],
+    "contribution": {
+      "zh": "个人项目",
+      "en": "Individual project"
+    },
+    "student": false,
+    "progress": false
+  },
+  {
+    "slug": "purelink",
+    "title": "PureLink",
+    "theme": "#a9cfe9",
+    "category": {
+      "zh": "用户研究 / 产品与服务设计",
+      "en": "User research / Product and service design"
+    },
+    "summary": {
+      "zh": "从一杯浑浊的水，追问产品背后的责任与协作。",
+      "en": "Starting with a cloudy glass of water—and the responsibilities behind it."
+    },
+    "period": "2025.08 — 2025.11",
+    "role": {
+      "zh": "个人项目",
+      "en": "Individual project"
+    },
+    "tools": [
+      "文化探针",
+      "共创工作坊",
+      "Figma",
+      "Arduino",
+      "材料实验"
+    ],
+    "cover": "/current/pure-cover.webp",
+    "sections": [
+      {
+        "title": {
+          "zh": "水质问题，也是沟通与协作问题",
+          "en": "Water quality is also a coordination problem"
+        },
+        "body": {
+          "zh": "暴雨后，北京部分地区居民反映家中水质变黄、浑浊。问题涉及居民、物业、政府与自来水厂，单靠居民难以解决。我先通过二手调研绘制利益相关者地图，再组织焦点访谈和共创活动，寻找各方可以参与的解决方式。",
+          "en": "After heavy rain, residents in parts of Beijing reported yellow or cloudy tap water. Resolving the issue involves residents, property managers, government, and the water utility. I mapped stakeholders through secondary research, then used focus-group discussions and co-design to identify possible responses."
+        },
+        "images": [
+          "/current/pure-research.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "让不同角色讲出日常里的难题",
+          "en": "Hear the problem from each side"
+        },
+        "body": {
+          "zh": "我将包含水质检测笔、拍摄相机、笔记本、便利贴和笔的文化探针工具包发放给三位居民和两位物业管理人员。记录显示，居民不清楚遇到水质问题该找谁，物业则认为许多污染来自管道、超出自身能力。调研由此推动了各方权责与沟通路径的梳理。",
+          "en": "Cultural-probe kits with a water-testing pen, camera, notebook, sticky notes, and pens were given to three residents and two property managers. Residents were unsure whom to contact, while property managers pointed to pipe-related issues beyond their control. These findings led me to clarify responsibilities and communication paths."
+        },
+        "images": [
+          "/current/pure-probe.webp",
+          "/current/pure-map.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "产品与双端服务一起设计",
+          "en": "Design the device and service together"
+        },
+        "body": {
+          "zh": "方案提出由政府采购、物业上门安装的净水装置，并用 App 支持多方沟通。居民端查看水质与使用信息，物业端接收反馈并跟进问题。净水装置不再是孤立的硬件，而是服务流程中的一个接触点。",
+          "en": "The proposal combines a purifier procured through government and installed by property management with an app for communication. Resident interfaces show water and usage information; property-management interfaces support feedback and follow-up. The device becomes one touchpoint in a wider service."
+        },
+        "images": [
+          "/current/pure-interfaces.webp"
+        ]
+      },
+      {
+        "title": {
+          "zh": "用材料与电子原型探索可行性",
+          "en": "Explore feasibility through materials and electronics"
+        },
+        "body": {
+          "zh": "净水结构探索聚丙烯棉、活性炭、树脂、滤膜和紫外线等不同处理方式。Arduino 原型连接紫外灯、TDS 与浊度传感器和显示屏，以观察处理前后的读数变化。项目记录展示了污染指标下降的原型测试；后续仍需标准化测试来验证净水性能。",
+          "en": "The filtration concept explores polypropylene cotton, activated carbon, resin, a filter membrane, and UV treatment. An Arduino prototype connects the UV lamp, TDS and turbidity sensors, and a display to observe before-and-after readings. The project records lower indicator readings in prototype trials; standardized testing remains necessary to establish filtration performance."
+        },
+        "images": [
+          "/current/pure-filtration.webp",
+          "/current/pure-hardware.webp",
+          "/current/pure-test.webp"
+        ]
+      }
+    ],
+    "contribution": {
+      "zh": "个人项目",
+      "en": "Individual project"
+    },
+    "student": false,
+    "progress": false
+  },
+  {
+    "slug": "color-showdown",
+    "title": "Color Showdown",
+    "theme": "#a0ceb9",
+    "category": {
+      "zh": "数媒游戏 / 实体交互",
+      "en": "Digital-media game / Physical interaction"
+    },
+    "summary": {
+      "zh": "通过一场色块争夺，体验创作者与 AI 的博弈。",
+      "en": "A tactile contest exploring the tension between creators and AI."
+    },
+    "period": "2025.10 — 2025.12",
+    "role": {
+      "zh": "个人项目",
+      "en": "Individual project"
+    },
+    "tools": [
+      "游戏机制",
+      "Unity",
+      "Arduino",
+      "TTP223",
+      "角色建模"
+    ],
+    "cover": "/current/color-cover.webp",
+    "sections": [
+      {
+        "title": {
+          "zh": "让抽象议题成为可以参与的体验",
+          "en": "Make an abstract question playable"
+        },
+        "body": {
+          "zh": "我以 AI 图像训练中的创作者权益争议为主题，设计了玩家与机器人 KIKI 争夺色块的游戏。项目目标是通过操作和反馈，引导玩家关注未经授权使用创作内容的问题。",
+          "en": "I designed a contest between the player and robot KIKI around debates over creators’ rights in AI image training. The game uses actions and feedback to invite reflection on the unauthorized use of creative work."
+        },
+        "images": [
+          "/research/page-21.jpg"
+        ]
+      },
+      {
+        "title": {
+          "zh": "用反复操作表达抵抗的成本",
+          "en": "Use repeated action to express the effort of resistance"
+        },
+        "body": {
+          "zh": "KIKI 尝试将棋盘上的色块转化为目标颜色。玩家用鼠标选择位置，通过不同次数的实体触摸改变并锁定色块，打乱机器人的路径。颜色的相似性与反复干预的负担，共同构成游戏的表达方式。",
+          "en": "KIKI tries to convert the board to a target color. Players choose positions with a mouse, then use physical taps to change and lock tiles, interrupting the robot’s route. Similar colors and the effort of repeated intervention contribute to the game’s argument."
+        },
+        "images": [
+          "/research/page-22.jpg"
+        ]
+      },
+      {
+        "title": {
+          "zh": "连接输入、程序与游戏反馈",
+          "en": "Connect physical input to digital feedback"
+        },
+        "body": {
+          "zh": "开发过程包含 TTP223 触摸传感器、Arduino 开发板、Unity 场景与代码，以及机器人角色建模。我将触摸输入连接到棋盘反馈，并完成关卡、暂停和游戏结果等界面。",
+          "en": "Development brings together a TTP223 touch sensor, Arduino board, Unity scenes and code, and robot-character modeling. Physical input drives board feedback, supported by level selection, pause, and game-result interfaces."
+        },
+        "images": [
+          "/research/page-23.jpg",
+          "/research/page-24.jpg"
+        ]
+      }
+    ],
+    "contribution": {
+      "zh": "个人项目",
+      "en": "Individual project"
+    },
+    "student": false,
+    "progress": false,
+    "demo": "https://www.youtube.com/watch?v=yZNcYpi3fE4"
+  },
+  {
+    "slug": "ice-chamber",
+    "title": "iceICL",
+    "theme": "#d9c9b4",
+    "category": {
+      "zh": "在读探索 / 快速原型",
+      "en": "Graduate studio / Rapid prototyping"
+    },
+    "summary": {
+      "zh": "保持冰凉，保留味道：一只内置冰仓的杯盖。",
+      "en": "Keep the drink cool without watering down its flavor."
+    },
+    "period": "2026",
+    "role": {
+      "zh": "团队项目",
+      "en": "Team project"
+    },
+    "tools": [
+      "用户访谈",
+      "用户测试",
+      "CAD",
+      "迭代原型"
+    ],
+    "cover": "/summer/ice-chamber/prototype.jpg",
+    "sections": [
+      {
+        "title": {
+          "zh": "先理解“不想要什么”",
+          "en": "Understand what the user does not want"
+        },
+        "body": {
+          "zh": "受访用户喝饮料很慢，往往喝到一半冰就融化了。她不愿携带可重复使用的容器，宁愿饮料不那么凉，也不喜欢味道被稀释。团队把问题重新定义为：如何为咖啡店提供既保持温度、又保留味道的一次性方案？",
+          "en": "Our interviewee drinks slowly, so the ice melts before she finishes. She dislikes carrying a reusable container and would rather have a lukewarm drink than a watery one. We reframed the challenge around a single-use café solution that preserves both temperature and taste."
+        },
+        "images": []
+      },
+      {
+        "title": {
+          "zh": "在容量、降温和结构之间做取舍",
+          "en": "Balance volume, cooling, and structure"
+        },
+        "body": {
+          "zh": "团队探索五个初始方向，并根据用户反馈和制造可行性选择内置冰仓杯盖。不同冰仓尺寸用于比较储冰量与饮品容量；铰链和卡扣的多轮迭代，则帮助团队理解公差、密封与重复弯折的要求。",
+          "en": "The team explored five directions and selected the internal ice-chamber lid based on user feedback and fabrication feasibility. Different chamber sizes exposed a trade-off between ice and drink volume. Hinge and snap-fit iterations brought tolerances, seals, and repeated bending into focus."
+        },
+        "images": [
+          "/summer/ice-chamber/early-models.jpg"
+        ]
+      },
+      {
+        "title": {
+          "zh": "当前成果与下一步",
+          "en": "Current outcome and next steps"
+        },
+        "body": {
+          "zh": "团队完成带可开启铰链的透明 PLA 杯盖原型。后续计划探索热成型，并与咖啡店合作开展真实使用测试。我的工作是主导用户访谈和测试，参与痛点分析、方案筛选、CAD 建模与迭代。",
+          "en": "The team produced an integrated clear-PLA lid prototype with an opening hinge. Next steps include thermoforming and café-based use trials. I led user interviews and testing, and contributed to pain-point analysis, concept selection, CAD modeling, and iteration."
+        },
+        "images": [
+          "/summer/ice-chamber/page-01.jpg"
+        ]
+      }
+    ],
+    "contribution": {
+      "zh": "主导用户访谈与测试；参与痛点分析、方案筛选、CAD 建模与迭代。",
+      "en": "Led user interviews and testing; contributed to pain-point analysis, concept selection, CAD modeling, and iteration."
+    },
+    "student": true,
+    "progress": false
+  },
+  {
+    "slug": "cocokeep",
+    "title": "Coco Carry",
+    "theme": "#c7d3a1",
+    "category": {
+      "zh": "在读探索 / 产品原型",
+      "en": "Graduate studio / Product prototyping"
+    },
+    "summary": {
+      "zh": "把海滩一天的物品与动作，收进一个容器。",
+      "en": "Bring a beach day’s belongings and activities into one object."
+    },
+    "period": "2026.08",
+    "role": {
+      "zh": "团队项目",
+      "en": "Team project"
+    },
+    "tools": [
+      "问题发现",
+      "痛点定位",
+      "实体原型"
+    ],
+    "cover": "/summer/coco-carry/page-14.jpg",
+    "sections": [
+      {
+        "title": {
+          "zh": "家庭海滩出行中的零散负担",
+          "en": "The many small burdens of a family beach day"
+        },
+        "body": {
+          "zh": "搭建营地、下水、用餐和收拾离场，都需要不同用品。团队关注家庭如何减少搬运负担，同时妥善保管物品。对现有沙滩保险盒、游泳浮袋和储物柜的研究，帮助我们识别分散方案之间的空隙。",
+          "en": "Setting up, swimming, eating, and packing away require many different items. The team explored how families might carry less while keeping belongings close. Research into beach safes, swim buoys, and lockers revealed gaps between separate solutions."
+        },
+        "images": [
+          "/summer/coco-carry/page-04.jpg"
+        ]
+      },
+      {
+        "title": {
+          "zh": "从生活中的容器学习结构",
+          "en": "Learn structure from everyday containers"
+        },
+        "body": {
+          "zh": "摩卡壶、篮子与堆叠金属盒，为开合、密封和堆叠方式提供了参考。方案把保冷底座、贵重物品隔层和中心伞杆整合起来，并通过形态探索和实体模型讨论空间与使用方式。",
+          "en": "Moka pots, baskets, and stacked tins informed closure, sealing, and stacking. The proposal combines a cooler base, valuables compartment, and umbrella support, using form studies and physical models to discuss space and use."
+        },
+        "images": [
+          "/summer/coco-carry/page-05.jpg",
+          "/summer/coco-carry/page-11.jpg"
+        ]
+      },
+      {
+        "title": {
+          "zh": "用模型推进讨论，继续验证功能",
+          "en": "Use models to move the discussion forward"
+        },
+        "body": {
+          "zh": "团队完成使用流程、形态与结构探索，以及不同尺度的实体模型。我参与问题发现、痛点定位和原型制作。后续工作包括材料与密封迭代，以及真实家庭海滩场景中的测试。",
+          "en": "The team developed a use sequence, form and structural studies, and models at different scales. I contributed to identifying the problem, defining pain points, and making prototypes. Further work includes material and seal iteration, followed by testing with families at the beach."
+        },
+        "images": [
+          "/summer/coco-carry/page-10.jpg"
+        ]
+      }
+    ],
+    "contribution": {
+      "zh": "参与问题发现、痛点定位与原型制作。",
+      "en": "Contributed to problem discovery, pain-point definition, and physical prototyping."
+    },
+    "student": true,
+    "progress": false
+  },
+  {
+    "slug": "headphone-comfort",
+    "title": "Headphone Comfort",
+    "theme": "#c2c5d8",
+    "category": {
+      "zh": "在读探索 / 人因研究",
+      "en": "Graduate studio / Human factors"
+    },
+    "summary": {
+      "zh": "从耳机戴不住，走向更舒适的佩戴体验。",
+      "en": "From unstable earbuds toward a more comfortable listening experience."
+    },
+    "period": "2026.09 — 进行中 / Ongoing",
+    "role": {
+      "zh": "双人团队项目 · 进行中",
+      "en": "Two-person team project · In progress"
+    },
+    "tools": [
+      "访谈",
+      "问卷",
+      "二手调研",
+      "人因研究",
+      "原型测试"
+    ],
+    "cover": null,
+    "sections": [
+      {
+        "title": {
+          "zh": "一个不断被研究修正的问题",
+          "en": "A question reshaped by research"
+        },
+        "body": {
+          "zh": "项目最初关注耳塞容易脱落。访谈与日常观察让我们看到另一个问题：部分用户因为耳饰、耳部敏感或头耳压力，难以舒适地使用头戴式耳机。团队逐步将方向转向个体差异与佩戴舒适度。",
+          "en": "The project began with earbuds falling out. Interviews and everyday observations uncovered another issue: piercings, sensitive ears, and head or ear pressure can make over-ear headphones uncomfortable. We gradually shifted toward individual differences and wearing comfort."
+        },
+        "images": []
+      },
+      {
+        "title": {
+          "zh": "把访谈、问卷与人因资料连接起来",
+          "en": "Connect interviews, surveys, and human-factors research"
+        },
+        "body": {
+          "zh": "我主导痛点提出、二手调研、访谈与问卷。现阶段梳理了耳机使用情境、不同佩戴形式的取舍，以及头耳压力与接触区域的研究。研究也帮助我们避免把所有人的不适都归结为同一个原因。",
+          "en": "I led pain-point framing, secondary research, interviews, and the questionnaire. The work examines listening contexts, trade-offs between form factors, and research on head and ear pressure. These findings help us avoid assuming that everyone’s discomfort has the same cause."
+        },
+        "images": []
+      },
+      {
+        "title": {
+          "zh": "用低保真原型寻找方向",
+          "en": "Find a direction through low-fidelity prototypes"
+        },
+        "body": {
+          "zh": "当前探索包括可调节充气耳垫、压力重新分布和替代佩戴结构。我参与原型设计制作、方案迭代与测试。研究记录仍在持续更新，这些方向目前是待验证的假设，不作为已经改善舒适度的结果。",
+          "en": "Current explorations include adjustable inflatable cushions, pressure redistribution, and alternative support structures. I contribute to prototype design, making, iteration, and testing. The research log continues to evolve; these directions remain hypotheses to evaluate."
+        },
+        "images": []
+      }
+    ],
+    "contribution": {
+      "zh": "主导痛点提出、二手调研、访谈与问卷；参与原型设计制作、方案迭代与测试。",
+      "en": "Led pain-point framing, secondary research, interviews, and the questionnaire; contributed to prototype design, making, iteration, and testing."
+    },
+    "student": true,
+    "progress": true
+  }
+]
