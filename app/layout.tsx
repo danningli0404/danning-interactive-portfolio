@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import './portfolio.css';
 import './faithful.css';
+import './native-figures-v2.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://danningli0404.github.io/danning-interactive-portfolio'),

@@ -1,0 +1,4 @@
+import {DesignFigure}from './design-figure';
+import {PhoneShell}from './phone-shell';
+export function VitalPhoneDashboard(){return <DesignFigure x={575} y={2405} width={173.39471435546875} height={357} canvasWidth={1251} canvasHeight={6150} label="VitalPhoneDashboard"><PhoneShell src="/figma/vital/01.webp" frame="/figma/restored-vital/07f4c.svg" alt="VitalRide app screen" style={{position:'absolute',left:575,top:2405,width:173.39471435546875,height:357}}/></DesignFigure>}
+export function VitalPhoneBody(){return <DesignFigure x={945} y={2468} width={173.39471435546875} height={357} canvasWidth={1251} canvasHeight={6150} label="VitalPhoneBody"><PhoneShell src="/figma/vital/12.webp" frame="/figma/restored-vital/07f4c.svg" alt="VitalRide app screen" style={{position:'absolute',left:945,top:2468,width:173.39471435546875,height:357}}/></DesignFigure>}

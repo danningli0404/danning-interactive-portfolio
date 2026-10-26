@@ -1,0 +1,542 @@
+.design-figure{position:relative;width:100%;overflow:hidden;isolation:isolate;margin:25px 0}.design-figure-canvas{position:absolute;left:0;top:0;transform-origin:0 0;font-family:Arial,'PingFang SC',sans-serif}.design-figure-canvas p[class]{margin:0!important;letter-spacing:0!important;line-height:normal}.design-figure-canvas img{max-width:none;display:block}.design-figure-canvas *{box-sizing:border-box}.native-phone{display:block;width:100%;margin:0}.native-phone .design-figure{margin:0}.native-figure-scroll{min-width:0}
+.design-figure-canvas .df-VitalOriginalDevices-0{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:69px;line-height:normal;left:77px;color:#203f1b;--df-font-size:32px;font-size:var(--df-font-size);top:2657px;width:294px}
+.design-figure-canvas .df-VitalOriginalDevices-1{position:absolute;display:contents;inset:46.67% 9.64% 47.53% 76.5%}
+.design-figure-canvas .df-VitalOriginalDevices-2{position:absolute;inset:46.67% 9.78% 47.53% 76.63%}
+.design-figure-canvas .df-VitalOriginalDevices-3{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-4{position:absolute;display:contents;inset:46.78% 10.37% 47.67% 77.23%}
+.design-figure-canvas .df-VitalOriginalDevices-5{position:absolute;display:contents;left:76.98%;right:10.07%;top:2875px}
+.design-figure-canvas .df-VitalOriginalDevices-6{position:absolute;left:76.98%;right:10.07%;top:2875px}
+.design-figure-canvas .df-VitalOriginalDevices-7{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-8{position:absolute;inset:48.74% 23.37% 50.81% 76.5%}
+.design-figure-canvas .df-VitalOriginalDevices-9{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-10{position:absolute;inset:48.18% 23.37% 51.36% 76.5%}
+.design-figure-canvas .df-VitalOriginalDevices-11{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-12{position:absolute;inset:47.76% 23.37% 52% 76.5%}
+.design-figure-canvas .df-VitalOriginalDevices-13{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-14{position:absolute;inset:48.34% 9.64% 50.97% 90.22%}
+.design-figure-canvas .df-VitalOriginalDevices-15{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-16{position:absolute;inset:46.87% 14.93% 52.94% 81.71%}
+.design-figure-canvas .df-VitalOriginalDevices-17{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-18{position:absolute;display:contents;inset:40.13% 10.6% 54.07% 75.54%}
+.design-figure-canvas .df-VitalOriginalDevices-19{position:absolute;inset:40.13% 10.74% 54.07% 75.68%}
+.design-figure-canvas .df-VitalOriginalDevices-20{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-21{position:absolute;display:contents;inset:40.24% 11.33% 54.21% 76.27%}
+.design-figure-canvas .df-VitalOriginalDevices-22{position:absolute;display:contents;inset:40.23% 11.1% 54.13% 76.1%}
+.design-figure-canvas .df-VitalOriginalDevices-23{position:absolute;inset:40.23% 11.1% 54.13% 76.1%}
+.design-figure-canvas .df-VitalOriginalDevices-24{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-25{position:absolute;inset:42.2% 24.32% 57.35% 75.54%}
+.design-figure-canvas .df-VitalOriginalDevices-26{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-27{position:absolute;inset:41.65% 24.32% 57.89% 75.54%}
+.design-figure-canvas .df-VitalOriginalDevices-28{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-29{position:absolute;inset:41.22% 24.32% 58.53% 75.54%}
+.design-figure-canvas .df-VitalOriginalDevices-30{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-31{position:absolute;inset:41.8% 10.6% 57.5% 89.26%}
+.design-figure-canvas .df-VitalOriginalDevices-32{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-33{position:absolute;inset:40.33% 15.88% 59.48% 80.75%}
+.design-figure-canvas .df-VitalOriginalDevices-34{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-35{position:absolute;display:contents;inset:40.91% 55.04% 53.28% 31.1%}
+.design-figure-canvas .df-VitalOriginalDevices-36{position:absolute;inset:40.91% 55.18% 53.28% 31.23%}
+.design-figure-canvas .df-VitalOriginalDevices-37{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-38{position:absolute;display:contents;inset:41.02% 55.78% 53.43% 31.83%}
+.design-figure-canvas .df-VitalOriginalDevices-39{position:absolute;display:contents;left:397.15px;top:2522px}
+.design-figure-canvas .df-VitalOriginalDevices-40{position:absolute;height:343px;left:397.15px;top:2522px;width:158.237px}
+.design-figure-canvas .df-VitalOriginalDevices-41{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-42{position:absolute;inset:42.98% 68.77% 56.56% 31.1%}
+.design-figure-canvas .df-VitalOriginalDevices-43{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-44{position:absolute;inset:42.43% 68.77% 57.11% 31.1%}
+.design-figure-canvas .df-VitalOriginalDevices-45{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-46{position:absolute;inset:42% 68.77% 57.75% 31.1%}
+.design-figure-canvas .df-VitalOriginalDevices-47{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-48{position:absolute;inset:42.58% 55.04% 56.72% 44.82%}
+.design-figure-canvas .df-VitalOriginalDevices-49{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-50{position:absolute;inset:41.11% 60.33% 58.7% 36.3%}
+.design-figure-canvas .df-VitalOriginalDevices-51{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-52{position:absolute;display:contents;inset:45.51% 40.02% 48.68% 46.12%}
+.design-figure-canvas .df-VitalOriginalDevices-53{position:absolute;inset:45.51% 40.15% 48.68% 46.26%}
+.design-figure-canvas .df-VitalOriginalDevices-54{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-55{position:absolute;display:contents;inset:45.62% 40.75% 48.83% 46.86%}
+.design-figure-canvas .df-VitalOriginalDevices-56{position:absolute;display:contents;left:584.76px;top:2804px}
+.design-figure-canvas .df-VitalOriginalDevices-57{position:absolute;height:345px;left:584.76px;top:2804px;width:158.719px}
+.design-figure-canvas .df-VitalOriginalDevices-58{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-59{position:absolute;inset:47.58% 53.74% 51.96% 46.12%}
+.design-figure-canvas .df-VitalOriginalDevices-60{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-61{position:absolute;inset:47.03% 53.74% 52.51% 46.12%}
+.design-figure-canvas .df-VitalOriginalDevices-62{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-63{position:absolute;inset:46.6% 53.74% 53.15% 46.12%}
+.design-figure-canvas .df-VitalOriginalDevices-64{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-65{position:absolute;inset:47.18% 40.02% 52.12% 59.85%}
+.design-figure-canvas .df-VitalOriginalDevices-66{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-67{position:absolute;inset:45.71% 45.3% 54.1% 51.33%}
+.design-figure-canvas .df-VitalOriginalDevices-68{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-69{position:absolute;display:contents;inset:39.11% 40.18% 55.09% 45.96%}
+.design-figure-canvas .df-VitalOriginalDevices-70{position:absolute;inset:39.11% 40.31% 55.09% 46.1%}
+.design-figure-canvas .df-VitalOriginalDevices-71{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-72{position:absolute;display:contents;inset:39.22% 40.91% 55.23% 46.7%}
+.design-figure-canvas .df-VitalOriginalDevices-73{position:absolute;display:contents;left:582px;top:2411px}
+.design-figure-canvas .df-VitalOriginalDevices-74{position:absolute;height:347px;left:582px;top:2411px;width:160px}
+.design-figure-canvas .df-VitalOriginalDevices-75{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-76{position:absolute;inset:41.18% 53.9% 58.37% 45.96%}
+.design-figure-canvas .df-VitalOriginalDevices-77{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-78{position:absolute;inset:40.62% 53.9% 58.92% 45.96%}
+.design-figure-canvas .df-VitalOriginalDevices-79{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-80{position:absolute;inset:40.2% 53.9% 59.56% 45.96%}
+.design-figure-canvas .df-VitalOriginalDevices-81{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-82{position:absolute;inset:40.78% 40.18% 58.53% 59.69%}
+.design-figure-canvas .df-VitalOriginalDevices-83{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-84{position:absolute;inset:39.31% 45.46% 60.5% 51.17%}
+.design-figure-canvas .df-VitalOriginalDevices-85{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-86{position:absolute;display:contents;inset:37.48% 25.39% 56.72% 60.75%}
+.design-figure-canvas .df-VitalOriginalDevices-87{position:absolute;inset:37.48% 25.52% 56.72% 60.89%}
+.design-figure-canvas .df-VitalOriginalDevices-88{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-89{position:absolute;display:contents;inset:37.59% 26.12% 56.86% 61.48%}
+.design-figure-canvas .df-VitalOriginalDevices-90{position:absolute;display:contents;left:767px;top:2311px}
+.design-figure-canvas .df-VitalOriginalDevices-91{position:absolute;height:342px;left:767px;top:2311px;width:158px}
+.design-figure-canvas .df-VitalOriginalDevices-92{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-93{position:absolute;inset:39.55% 39.11% 60% 60.75%}
+.design-figure-canvas .df-VitalOriginalDevices-94{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-95{position:absolute;inset:39% 39.11% 60.55% 60.75%}
+.design-figure-canvas .df-VitalOriginalDevices-96{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-97{position:absolute;inset:38.57% 39.11% 61.18% 60.75%}
+.design-figure-canvas .df-VitalOriginalDevices-98{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-99{position:absolute;inset:39.15% 25.39% 60.16% 74.48%}
+.design-figure-canvas .df-VitalOriginalDevices-100{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-101{position:absolute;inset:37.68% 30.67% 62.13% 65.96%}
+.design-figure-canvas .df-VitalOriginalDevices-102{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-103{position:absolute;display:contents;inset:43.89% 24.91% 50.31% 61.23%}
+.design-figure-canvas .df-VitalOriginalDevices-104{position:absolute;inset:43.89% 25.04% 50.31% 61.37%}
+.design-figure-canvas .df-VitalOriginalDevices-105{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-106{position:absolute;display:contents;inset:44% 25.64% 50.45% 61.96%}
+.design-figure-canvas .df-VitalOriginalDevices-107{position:absolute;display:contents;left:773px;top:2705px}
+.design-figure-canvas .df-VitalOriginalDevices-108{position:absolute;height:342px;left:773px;top:2705px;width:158px}
+.design-figure-canvas .df-VitalOriginalDevices-109{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-110{position:absolute;inset:45.96% 38.63% 53.59% 61.23%}
+.design-figure-canvas .df-VitalOriginalDevices-111{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-112{position:absolute;inset:45.4% 38.63% 54.14% 61.23%}
+.design-figure-canvas .df-VitalOriginalDevices-113{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-114{position:absolute;inset:44.98% 38.63% 54.78% 61.23%}
+.design-figure-canvas .df-VitalOriginalDevices-115{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-116{position:absolute;inset:45.56% 24.91% 53.75% 74.96%}
+.design-figure-canvas .df-VitalOriginalDevices-117{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-118{position:absolute;inset:44.09% 30.19% 55.72% 66.44%}
+.design-figure-canvas .df-VitalOriginalDevices-119{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalDevices-120{position:absolute;height:424px;left:85px;top:2840px;width:390px}
+.design-figure-canvas .df-VitalOriginalDevices-121{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalDevices-122{position:absolute;height:189.58%;left:-9.69%;max-width:none;top:-60.7%;width:116.3%}
+.design-figure-canvas .df-VitalOriginalDevices-123{position:absolute;height:258px;left:97px;top:2305px;width:301px}
+.design-figure-canvas .df-VitalOriginalDevices-124{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalDevices-125{position:absolute;height:483.36%;left:-67.26%;max-width:none;top:-53.02%;width:233.63%}
+.design-figure-canvas .df-VitalOriginalTests-0{position:absolute;display:flex;height:125px;align-items:center;justify-content:center;left:236px;top:4390px;width:211px}
+.design-figure-canvas .df-VitalOriginalTests-1{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-VitalOriginalTests-2{background:#9fbf75;height:125px;position:relative;width:211px}
+.design-figure-canvas .df-VitalOriginalTests-3{position:absolute;display:flex;height:125px;align-items:center;justify-content:center;left:483px;top:4390px;width:211px}
+.design-figure-canvas .df-VitalOriginalTests-4{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-VitalOriginalTests-5{background:#9fbf75;height:125px;position:relative;width:211px}
+.design-figure-canvas .df-VitalOriginalTests-6{position:absolute;display:flex;height:125px;align-items:center;justify-content:center;left:730px;top:4390px;width:211px}
+.design-figure-canvas .df-VitalOriginalTests-7{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-VitalOriginalTests-8{background:#9fbf75;height:125px;position:relative;width:211px}
+.design-figure-canvas .df-VitalOriginalTests-9{position:absolute;display:flex;height:155px;align-items:center;justify-content:center;left:614px;top:4957px;width:327px}
+.design-figure-canvas .df-VitalOriginalTests-10{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-VitalOriginalTests-11{background:#9fbf75;height:155px;position:relative;width:327px}
+.design-figure-canvas .df-VitalOriginalTests-12{position:absolute;display:flex;height:155px;align-items:center;justify-content:center;left:236px;top:4957px;width:327px}
+.design-figure-canvas .df-VitalOriginalTests-13{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-VitalOriginalTests-14{background:#9fbf75;height:155px;position:relative;width:327px}
+.design-figure-canvas .df-VitalOriginalTests-15{position:absolute;display:contents;left:236px;top:3683px}
+.design-figure-canvas .df-VitalOriginalTests-16{position:absolute;height:606.699px;left:236px;top:3683px;width:704.873px}
+.design-figure-canvas .df-VitalOriginalTests-17{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-18{position:absolute;height:125.73%;left:-3.61%;max-width:none;top:-3.38%;width:192.38%}
+.design-figure-canvas .df-VitalOriginalTests-19{position:absolute;height:69.521px;left:236px;top:4287.98px;width:703.483px}
+.design-figure-canvas .df-VitalOriginalTests-20{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-21{position:absolute;height:1069.31%;left:-3.26%;max-width:none;top:-844.55%;width:183.96%}
+.design-figure-canvas .df-VitalOriginalTests-22{position:absolute;height:61.34px;left:236.41px;top:4357.31px;width:704.586px}
+.design-figure-canvas .df-VitalOriginalTests-23{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-24{position:absolute;height:1367.09%;left:-4.68%;max-width:none;top:-1202.53%;width:213.74%}
+.design-figure-canvas .df-VitalOriginalTests-25{position:absolute;height:117px;left:286px;top:4398px;width:161px}
+.design-figure-canvas .df-VitalOriginalTests-26{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-27{position:absolute;display:contents;left:304.56px;top:4403.33px}
+.design-figure-canvas .df-VitalOriginalTests-28{position:absolute;height:117.769px;left:286.01px;top:4397.68px;width:161.327px}
+.design-figure-canvas .df-VitalOriginalTests-29{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-30{position:absolute;height:296.88%;left:-63%;max-width:none;top:-63.38%;width:163%}
+.design-figure-canvas .df-VitalOriginalTests-31{position:absolute;display:flex;height:47.109px;align-items:center;justify-content:center;left:303.18px;top:4401.55px;width:57.626px}
+.design-figure-canvas .df-VitalOriginalTests-32{flex:none;transform:rotate(3.81deg)}
+.design-figure-canvas .df-VitalOriginalTests-33{height:43.558px;position:relative;width:54.851px}
+.design-figure-canvas .df-VitalOriginalTests-34{position:absolute;inset:-2.5% -2.12% -2.43% -1.89%}
+.design-figure-canvas .df-VitalOriginalTests-35{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-36{position:absolute;height:132px;left:513px;top:4383px;width:181px}
+.design-figure-canvas .df-VitalOriginalTests-37{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-38{position:absolute;display:contents;left:525.58px;top:4408.17px}
+.design-figure-canvas .df-VitalOriginalTests-39{position:absolute;height:132.288px;left:513.48px;top:4383.16px;width:180.686px}
+.design-figure-canvas .df-VitalOriginalTests-40{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-41{position:absolute;height:266.51%;left:-45.54%;max-width:none;top:-56.89%;width:145.54%}
+.design-figure-canvas .df-VitalOriginalTests-42{position:absolute;height:68px;left:526px;top:4408px;width:57px}
+.design-figure-canvas .df-VitalOriginalTests-43{position:absolute;inset:-1.59% -1.95% -1.99% -1.91%}
+.design-figure-canvas .df-VitalOriginalTests-44{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-45{position:absolute;height:124px;left:783px;top:4391px;width:158px}
+.design-figure-canvas .df-VitalOriginalTests-46{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-47{position:absolute;display:contents;left:794.19px;top:4433.98px}
+.design-figure-canvas .df-VitalOriginalTests-48{position:absolute;height:124.27px;left:782.9px;top:4391.23px;width:158.039px}
+.design-figure-canvas .df-VitalOriginalTests-49{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-50{position:absolute;height:235.36%;left:-38.46%;max-width:none;top:-39.11%;width:138.46%}
+.design-figure-canvas .df-VitalOriginalTests-51{position:absolute;height:65px;left:794px;top:4434px;width:34px}
+.design-figure-canvas .df-VitalOriginalTests-52{position:absolute;inset:-1.54% -3.25% -1.54% -3.17%}
+.design-figure-canvas .df-VitalOriginalTests-53{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-54{position:absolute;height:406px;left:236px;top:4532px;width:705px}
+.design-figure-canvas .df-VitalOriginalTests-55{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-56{position:absolute;height:428.57%;left:-77.35%;max-width:none;top:-263.89%;width:439.36%}
+.design-figure-canvas .df-VitalOriginalTests-57{position:absolute;height:121px;left:244px;top:4991px;width:142px}
+.design-figure-canvas .df-VitalOriginalTests-58{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-59{position:absolute;display:contents;left:256.97px;top:5029.28px}
+.design-figure-canvas .df-VitalOriginalTests-60{position:absolute;height:121.237px;left:244.07px;top:4991.36px;width:141.686px}
+.design-figure-canvas .df-VitalOriginalTests-61{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-62{position:absolute;height:207.04%;left:-32.15%;max-width:none;top:-14.08%;width:132.34%}
+.design-figure-canvas .df-VitalOriginalTests-63{position:absolute;height:36px;left:257px;top:5029px;width:49px}
+.design-figure-canvas .df-VitalOriginalTests-64{position:absolute;inset:-2.91% -3.05% -2.78% -3.02%}
+.design-figure-canvas .df-VitalOriginalTests-65{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-66{position:absolute;height:127px;left:412px;top:4985px;width:151px}
+.design-figure-canvas .df-VitalOriginalTests-67{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-68{position:absolute;display:contents;left:426.37px;top:4997.01px}
+.design-figure-canvas .df-VitalOriginalTests-69{position:absolute;height:127.543px;left:411.85px;top:4984.91px;width:151.536px}
+.design-figure-canvas .df-VitalOriginalTests-70{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-71{position:absolute;height:201.46%;left:-26.7%;max-width:none;top:-18.98%;width:126.74%}
+.design-figure-canvas .df-VitalOriginalTests-72{position:absolute;height:50px;left:426px;top:4997px;width:53px}
+.design-figure-canvas .df-VitalOriginalTests-73{position:absolute;inset:-2.36% -1.96% -2.05% -2.64%}
+.design-figure-canvas .df-VitalOriginalTests-74{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-75{position:absolute;height:134px;left:607px;top:4957px;width:159px}
+.design-figure-canvas .df-VitalOriginalTests-76{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-77{position:absolute;display:contents;left:607.86px;top:5022.02px}
+.design-figure-canvas .df-VitalOriginalTests-78{position:absolute;height:133.52px;left:607.05px;top:4957.49px;width:158.554px}
+.design-figure-canvas .df-VitalOriginalTests-79{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-80{position:absolute;height:227.08%;left:-43.24%;max-width:none;top:-32.29%;width:143.5%}
+.design-figure-canvas .df-VitalOriginalTests-81{position:absolute;height:31px;left:608px;top:5022px;width:55px}
+.design-figure-canvas .df-VitalOriginalTests-82{position:absolute;inset:-3.23% -2.15% -3.43% -2.38%}
+.design-figure-canvas .df-VitalOriginalTests-83{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-84{position:absolute;height:135px;left:783px;top:4957px;width:157px}
+.design-figure-canvas .df-VitalOriginalTests-85{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-86{position:absolute;display:contents;left:783.71px;top:4984.91px}
+.design-figure-canvas .df-VitalOriginalTests-87{position:absolute;height:134.397px;left:782.9px;top:4957.49px;width:157.52px}
+.design-figure-canvas .df-VitalOriginalTests-88{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-VitalOriginalTests-89{position:absolute;height:225.96%;left:-44.18%;max-width:none;top:-29.81%;width:144.32%}
+.design-figure-canvas .df-VitalOriginalTests-90{position:absolute;height:89px;left:784px;top:4985px;width:68px}
+.design-figure-canvas .df-VitalOriginalTests-91{position:absolute;inset:-1.39% -1.71% -1.77% -2.55%}
+.design-figure-canvas .df-VitalOriginalTests-92{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-93{position:absolute;height:19px;left:276px;top:4251px;width:168px}
+.design-figure-canvas .df-VitalOriginalTests-94{position:absolute;height:19px;left:276px;top:4306px;width:265px}
+.design-figure-canvas .df-VitalOriginalTests-95{position:absolute;height:20px;left:276px;top:4373px;width:181px}
+.design-figure-canvas .df-VitalOriginalTests-96{position:absolute;height:37px;left:276px;top:4725px;width:428px}
+.design-figure-canvas .df-VitalOriginalTests-97{position:absolute;height:37px;left:276px;top:4870px;width:162px}
+.design-figure-canvas .df-VitalOriginalTests-98{position:absolute;height:64px;left:255px;top:4385px;width:25px}
+.design-figure-canvas .df-VitalOriginalTests-99{position:absolute;inset:-4.51% 0 -4.17% -10.67%}
+.design-figure-canvas .df-VitalOriginalTests-100{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-101{position:absolute;height:274px;left:255px;top:4745px;width:175px}
+.design-figure-canvas .df-VitalOriginalTests-102{position:absolute;inset:-1.05% -1.52% -0.97% -0.29%}
+.design-figure-canvas .df-VitalOriginalTests-103{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-104{position:absolute;display:flex;height:127px;align-items:center;justify-content:center;left:437px;top:4891px;width:414px}
+.design-figure-canvas .df-VitalOriginalTests-105{transform:scaleY(-1);flex:none;transform:rotate(180deg)}
+.design-figure-canvas .df-VitalOriginalTests-106{height:127px;position:relative;width:414px}
+.design-figure-canvas .df-VitalOriginalTests-107{position:absolute;inset:-2.27% 0 -2.1% -0.64%}
+.design-figure-canvas .df-VitalOriginalTests-108{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-109{position:absolute;display:flex;height:135.449px;align-items:center;justify-content:center;left:540.1px;top:4314.05px;width:58.089px}
+.design-figure-canvas .df-VitalOriginalTests-110{flex:none;transform:rotate(-0.34deg)}
+.design-figure-canvas .df-VitalOriginalTests-111{height:135.114px;position:relative;width:57.295px}
+.design-figure-canvas .df-VitalOriginalTests-112{position:absolute;inset:-2.11% -4.65% -1.97% 0}
+.design-figure-canvas .df-VitalOriginalTests-113{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-114{position:absolute;height:192px;left:442px;top:4257px;width:313px}
+.design-figure-canvas .df-VitalOriginalTests-115{position:absolute;inset:-1.5% -0.85% -1.39% 0}
+.design-figure-canvas .df-VitalOriginalTests-116{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-117{position:absolute;left:268px;top:4449px;width:120px}
+.design-figure-canvas .df-VitalOriginalTests-118{position:absolute;inset:-1px 0}
+.design-figure-canvas .df-VitalOriginalTests-119{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-120{position:absolute;left:505px;top:4477px;width:120px}
+.design-figure-canvas .df-VitalOriginalTests-121{position:absolute;inset:-1px 0}
+.design-figure-canvas .df-VitalOriginalTests-122{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-123{position:absolute;left:752px;top:4503px;width:120px}
+.design-figure-canvas .df-VitalOriginalTests-124{position:absolute;inset:-1px 0}
+.design-figure-canvas .df-VitalOriginalTests-125{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalTests-126{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:700;height:28px;line-height:normal;left:505px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#fff;top:4483px;width:176px}
+.design-figure-canvas .df-VitalOriginalTests-127{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:700;height:28px;line-height:normal;left:265px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#fff;top:4483px;width:148px}
+.design-figure-canvas .df-VitalOriginalTests-128{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:700;height:27px;line-height:normal;left:296px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#fff;top:4964px;width:211px}
+.design-figure-canvas .df-VitalOriginalTests-129{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:700;height:28px;line-height:normal;left:649px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#fff;top:5078px;width:240px}
+.design-figure-canvas .df-VitalOriginalTests-130{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:700;height:27px;line-height:normal;left:775px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#fff;top:4417px;width:105px}
+.design-figure-canvas .df-VitalOriginalStory-0{position:absolute;display:flex;height:78px;align-items:center;justify-content:center;left:150px;top:5596px;width:422px}
+.design-figure-canvas .df-VitalOriginalStory-1{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-VitalOriginalStory-2{background:#9fbf75;height:78px;position:relative;width:422px}
+.design-figure-canvas .df-VitalOriginalStory-3{position:absolute;display:flex;height:78px;align-items:center;justify-content:center;left:635px;top:5596px;width:422px}
+.design-figure-canvas .df-VitalOriginalStory-4{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-VitalOriginalStory-5{background:#9fbf75;height:78px;position:relative;width:422px}
+.design-figure-canvas .df-VitalOriginalStory-6{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;line-height:normal;left:234px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#000;top:5950px;width:322px}
+.design-figure-canvas .df-VitalOriginalStory-7{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;line-height:normal;left:719px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#000;top:5958px;width:322px}
+.design-figure-canvas .df-VitalOriginalStory-8{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;line-height:normal;left:234px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#000;top:5618px;width:322px}
+.design-figure-canvas .df-VitalOriginalStory-9{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;line-height:normal;left:719px;font-style:normal;--df-font-size:14px;font-size:var(--df-font-size);color:#000;top:5618px;width:322px}
+.design-figure-canvas .df-VitalOriginalStory-10{overflow-wrap:break-word;position:absolute;font-family:inherit;line-height:normal;left:164px;font-style:normal;color:#507849;--df-font-size:40px;font-size:var(--df-font-size);top:5948px;white-space:nowrap}
+.design-figure-canvas .df-VitalOriginalStory-11{overflow-wrap:break-word;position:absolute;font-family:inherit;line-height:normal;left:644px;font-style:normal;color:#507849;--df-font-size:40px;font-size:var(--df-font-size);top:5948px;white-space:nowrap}
+.design-figure-canvas .df-VitalOriginalStory-12{overflow-wrap:break-word;position:absolute;font-family:inherit;line-height:normal;left:163px;font-style:normal;color:#507849;--df-font-size:40px;font-size:var(--df-font-size);top:5608px;white-space:nowrap}
+.design-figure-canvas .df-VitalOriginalStory-13{overflow-wrap:break-word;position:absolute;font-family:inherit;line-height:normal;left:652px;font-style:normal;color:#507849;--df-font-size:40px;font-size:var(--df-font-size);top:5608px;white-space:nowrap}
+.design-figure-canvas .df-VitalOriginalStory-14{position:absolute;height:238px;left:150px;top:5357px;width:422px}
+.design-figure-canvas .df-VitalOriginalStory-15{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalStory-16{position:absolute;height:238px;left:635px;top:5357px;width:422px}
+.design-figure-canvas .df-VitalOriginalStory-17{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalStory-18{position:absolute;height:238px;left:150px;top:5697px;width:422px}
+.design-figure-canvas .df-VitalOriginalStory-19{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-VitalOriginalStory-20{position:absolute;height:238px;left:635px;top:5697px;width:422px}
+.design-figure-canvas .df-VitalOriginalStory-21{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-0{position:absolute;height:296px;left:180px;top:1711px;width:833px}
+.design-figure-canvas .df-PureOriginalStakeholders-1{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-2{position:absolute;height:248px;left:247px;top:1735px;width:694px}
+.design-figure-canvas .df-PureOriginalStakeholders-3{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-4{position:absolute;height:164px;left:382px;top:1777px;width:426px}
+.design-figure-canvas .df-PureOriginalStakeholders-5{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-6{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:153px;color:#142e6f;--df-font-size:14px;font-size:var(--df-font-size);top:1842px;white-space:nowrap}
+.design-figure-canvas .df-PureOriginalStakeholders-7{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:970px;color:#142e6f;--df-font-size:14px;font-size:var(--df-font-size);top:1859px;white-space:nowrap}
+.design-figure-canvas .df-PureOriginalStakeholders-8{position:absolute;left:557px;width:90px;height:90px;top:1768px}
+.design-figure-canvas .df-PureOriginalStakeholders-9{position:absolute;inset:-53.44%}
+.design-figure-canvas .df-PureOriginalStakeholders-10{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-11{position:absolute;left:685px;width:90px;height:90px;top:1816px}
+.design-figure-canvas .df-PureOriginalStakeholders-12{position:absolute;inset:-53.44%}
+.design-figure-canvas .df-PureOriginalStakeholders-13{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-14{position:absolute;left:444px;width:90px;height:90px;top:1823px}
+.design-figure-canvas .df-PureOriginalStakeholders-15{position:absolute;inset:-53.44%}
+.design-figure-canvas .df-PureOriginalStakeholders-16{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-17{position:absolute;left:288px;width:90px;height:90px;top:1794px}
+.design-figure-canvas .df-PureOriginalStakeholders-18{position:absolute;inset:-53.44%}
+.design-figure-canvas .df-PureOriginalStakeholders-19{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-20{position:absolute;left:351px;width:90px;height:90px;top:1876px}
+.design-figure-canvas .df-PureOriginalStakeholders-21{position:absolute;inset:-53.44%}
+.design-figure-canvas .df-PureOriginalStakeholders-22{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-23{position:absolute;left:573px;width:90px;height:90px;top:1900px}
+.design-figure-canvas .df-PureOriginalStakeholders-24{position:absolute;inset:-53.44%}
+.design-figure-canvas .df-PureOriginalStakeholders-25{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-26{position:absolute;left:844px;width:90px;height:90px;top:1827px}
+.design-figure-canvas .df-PureOriginalStakeholders-27{position:absolute;inset:-53.44%}
+.design-figure-canvas .df-PureOriginalStakeholders-28{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-29{position:absolute;left:598px;width:90px;height:90px;top:1704px}
+.design-figure-canvas .df-PureOriginalStakeholders-30{position:absolute;inset:-53.44%}
+.design-figure-canvas .df-PureOriginalStakeholders-31{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-32{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:591px;color:#142e6f;--df-font-size:18px;font-size:var(--df-font-size);top:1829px;white-space:nowrap}
+.design-figure-canvas .df-PureOriginalStakeholders-33{position:absolute;left:589px;width:40px;height:40px;top:1787px}
+.design-figure-canvas .df-PureOriginalStakeholders-34{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-35{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:668px;color:#142e6f;--df-font-size:18px;font-size:var(--df-font-size);top:1886px;white-space:nowrap}
+.design-figure-canvas .df-PureOriginalStakeholders-36{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:452px;color:#142e6f;--df-font-size:18px;font-size:var(--df-font-size);top:1886px;white-space:nowrap}
+.design-figure-canvas .df-PureOriginalStakeholders-37{position:absolute;left:151px;width:90px;height:90px;top:1804px}
+.design-figure-canvas .df-PureOriginalStakeholders-38{position:absolute;inset:-2.22%}
+.design-figure-canvas .df-PureOriginalStakeholders-39{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-40{position:absolute;left:703px;width:40px;height:40px;top:1845px}
+.design-figure-canvas .df-PureOriginalStakeholders-41{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-42{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:290px;color:#142e6f;--df-font-size:14px;font-size:var(--df-font-size);top:1827px;white-space:nowrap}
+.design-figure-canvas .df-PureOriginalStakeholders-43{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:856px;color:#142e6f;--df-font-size:14px;font-size:var(--df-font-size);top:1857px;white-space:nowrap}
+.design-figure-canvas .df-PureOriginalStakeholders-44{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:551px;color:#142e6f;--df-font-size:14px;font-size:var(--df-font-size);top:1954px;width:234px}
+.design-figure-canvas .df-PureOriginalStakeholders-45{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:356px;color:#142e6f;--df-font-size:14px;font-size:var(--df-font-size);top:1928px;width:234px}
+.design-figure-canvas .df-PureOriginalStakeholders-46{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:500;line-height:normal;left:573px;color:#142e6f;--df-font-size:14px;font-size:var(--df-font-size);top:1738px;width:179px}
+.design-figure-canvas .df-PureOriginalStakeholders-47{position:absolute;left:954px;width:59px;height:59px;top:1838px}
+.design-figure-canvas .df-PureOriginalStakeholders-48{position:absolute;inset:-3.39%}
+.design-figure-canvas .df-PureOriginalStakeholders-49{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalStakeholders-50{position:absolute;left:468px;width:40px;height:40px;top:1841px}
+.design-figure-canvas .df-PureOriginalStakeholders-51{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-0{position:absolute;left:95px;pointer-events:none;border-radius:20px;width:106px;height:106px;top:3417px}
+.design-figure-canvas .df-PureOriginalSystem-1{position:absolute;background:#f0f0f3;inset:0;border-radius:20px}
+.design-figure-canvas .df-PureOriginalSystem-2{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalSystem-3{position:absolute;left:95px;pointer-events:none;border-radius:20px;width:106px;height:106px;top:3084px}
+.design-figure-canvas .df-PureOriginalSystem-4{position:absolute;background:#f0f0f3;inset:0;border-radius:20px}
+.design-figure-canvas .df-PureOriginalSystem-5{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalSystem-6{position:absolute;left:966px;pointer-events:none;border-radius:20px;width:106px;height:106px;top:3084px}
+.design-figure-canvas .df-PureOriginalSystem-7{position:absolute;background:#f0f0f3;inset:0;border-radius:20px}
+.design-figure-canvas .df-PureOriginalSystem-8{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalSystem-9{position:absolute;left:966px;pointer-events:none;border-radius:20px;width:106px;height:106px;top:3417px}
+.design-figure-canvas .df-PureOriginalSystem-10{position:absolute;background:#f0f0f3;inset:0;border-radius:20px}
+.design-figure-canvas .df-PureOriginalSystem-11{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalSystem-12{position:absolute;left:120px;width:59px;height:59px;top:3431px}
+.design-figure-canvas .df-PureOriginalSystem-13{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-14{position:absolute;left:116px;width:59px;height:59px;top:3095px}
+.design-figure-canvas .df-PureOriginalSystem-15{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-16{position:absolute;height:63px;left:986px;top:3095px;width:64px}
+.design-figure-canvas .df-PureOriginalSystem-17{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-18{position:absolute;left:210px;top:3151px;width:733px}
+.design-figure-canvas .df-PureOriginalSystem-19{position:absolute;inset:-7.36px -0.14% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-20{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-21{position:absolute;display:flex;height:231.949px;align-items:center;justify-content:center;left:214.92px;top:3182.74px;width:738.236px}
+.design-figure-canvas .df-PureOriginalSystem-22{flex:none;transform:rotate(17.44deg)}
+.design-figure-canvas .df-PureOriginalSystem-23{position:relative;width:773.817px}
+.design-figure-canvas .df-PureOriginalSystem-24{position:absolute;inset:-7.36px -0.13% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-25{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-26{position:absolute;display:flex;height:234.783px;align-items:center;justify-content:center;left:193.84px;top:3206.36px;width:759.314px}
+.design-figure-canvas .df-PureOriginalSystem-27{flex:none;transform:rotate(-162.82deg)}
+.design-figure-canvas .df-PureOriginalSystem-28{position:relative;width:794.783px}
+.design-figure-canvas .df-PureOriginalSystem-29{position:absolute;inset:-7.36px -0.13% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-30{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-31{position:absolute;display:flex;align-items:center;justify-content:center;left:210px;top:3116px;width:733px}
+.design-figure-canvas .df-PureOriginalSystem-32{transform:scaleY(-1);flex:none;transform:rotate(180deg)}
+.design-figure-canvas .df-PureOriginalSystem-33{position:relative;width:733px}
+.design-figure-canvas .df-PureOriginalSystem-34{position:absolute;inset:-7.36px -0.14% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-35{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-36{position:absolute;left:210px;top:3487px;width:733px}
+.design-figure-canvas .df-PureOriginalSystem-37{position:absolute;inset:-7.36px -0.14% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-38{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-39{position:absolute;display:flex;height:209px;align-items:center;justify-content:center;left:1034px;top:3195px}
+.design-figure-canvas .df-PureOriginalSystem-40{transform:rotate(-90deg);flex:none}
+.design-figure-canvas .df-PureOriginalSystem-41{position:relative;width:209px}
+.design-figure-canvas .df-PureOriginalSystem-42{position:absolute;inset:-7.36px -0.48% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-43{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-44{position:absolute;display:flex;height:209px;align-items:center;justify-content:center;left:161px;top:3199px}
+.design-figure-canvas .df-PureOriginalSystem-45{transform:rotate(-90deg);flex:none}
+.design-figure-canvas .df-PureOriginalSystem-46{position:relative;width:209px}
+.design-figure-canvas .df-PureOriginalSystem-47{position:absolute;inset:-7.36px -0.48% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-48{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-49{position:absolute;display:flex;height:209px;align-items:center;justify-content:center;left:1011px;top:3195px}
+.design-figure-canvas .df-PureOriginalSystem-50{transform:scaleY(-1);flex:none;transform:rotate(90deg)}
+.design-figure-canvas .df-PureOriginalSystem-51{position:relative;width:209px}
+.design-figure-canvas .df-PureOriginalSystem-52{position:absolute;inset:-7.36px -0.48% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-53{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-54{position:absolute;display:flex;height:209px;align-items:center;justify-content:center;left:133px;top:3199px}
+.design-figure-canvas .df-PureOriginalSystem-55{transform:scaleY(-1);flex:none;transform:rotate(90deg)}
+.design-figure-canvas .df-PureOriginalSystem-56{position:relative;width:209px}
+.design-figure-canvas .df-PureOriginalSystem-57{position:absolute;inset:-7.36px -0.48% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-58{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-59{position:absolute;display:flex;align-items:center;justify-content:center;left:210px;top:3457px;width:733px}
+.design-figure-canvas .df-PureOriginalSystem-60{transform:scaleY(-1);flex:none;transform:rotate(180deg)}
+.design-figure-canvas .df-PureOriginalSystem-61{position:relative;width:733px}
+.design-figure-canvas .df-PureOriginalSystem-62{position:absolute;inset:-7.36px -0.14% -7.36px 0}
+.design-figure-canvas .df-PureOriginalSystem-63{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalSystem-64{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:14px;line-height:normal;left:786px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3075px;width:280px}
+.design-figure-canvas .df-PureOriginalSystem-65{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:13px;line-height:normal;left:316px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3159px;width:289px}
+.design-figure-canvas .df-PureOriginalSystem-66{position:absolute;display:flex;height:261.915px;align-items:center;justify-content:center;left:292px;top:3177px;width:731.72px}
+.design-figure-canvas .df-PureOriginalSystem-67{flex:none;transform:rotate(17.14deg)}
+.design-figure-canvas .df-PureOriginalSystem-68{overflow-wrap:break-word;font-family:inherit;font-weight:400;height:41.845px;line-height:normal;position:relative;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);width:753.008px}
+.design-figure-canvas .df-PureOriginalSystem-69{position:absolute;display:flex;height:160.049px;align-items:center;justify-content:center;left:464px;top:3305px;width:448.346px}
+.design-figure-canvas .df-PureOriginalSystem-70{flex:none;transform:rotate(17.14deg)}
+.design-figure-canvas .df-PureOriginalSystem-71{overflow-wrap:break-word;font-family:inherit;font-weight:400;height:25.139px;line-height:normal;position:relative;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);width:461.542px}
+.design-figure-canvas .df-PureOriginalSystem-72{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:13px;line-height:normal;left:126px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3159px;width:107px}
+.design-figure-canvas .df-PureOriginalSystem-73{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:14px;line-height:normal;left:123px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3492px;width:121px}
+.design-figure-canvas .df-PureOriginalSystem-74{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:40px;line-height:normal;left:996px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3490px;width:113px}
+.design-figure-canvas .df-PureOriginalSystem-75{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:62px;line-height:normal;left:45px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3254px;width:87px}
+.design-figure-canvas .df-PureOriginalSystem-76{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:13px;line-height:normal;left:982px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3163px;width:118px}
+.design-figure-canvas .df-PureOriginalSystem-77{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:39px;line-height:normal;left:167px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3348px;width:168px}
+.design-figure-canvas .df-PureOriginalSystem-78{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:46px;line-height:normal;left:391px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3421px;width:763px}
+.design-figure-canvas .df-PureOriginalSystem-79{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:48px;line-height:normal;left:244px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3501px;width:695px}
+.design-figure-canvas .df-PureOriginalSystem-80{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:66px;line-height:normal;left:1040px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3312px;width:135px}
+.design-figure-canvas .df-PureOriginalSystem-81{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:47px;line-height:normal;left:828px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:3230px;width:195px}
+.design-figure-canvas .df-PureOriginalSystem-82{position:absolute;left:988px;width:63px;height:63px;top:3423px}
+.design-figure-canvas .df-PureOriginalSystem-83{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-0{position:absolute;height:148px;left:390px;top:5244px;width:197px}
+.design-figure-canvas .df-PureOriginalFiltration-1{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-2{position:absolute;height:148px;left:390px;top:5042px;width:198px}
+.design-figure-canvas .df-PureOriginalFiltration-3{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-4{position:absolute;height:146px;left:390px;top:4836px;width:194px}
+.design-figure-canvas .df-PureOriginalFiltration-5{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-6{position:absolute;height:148px;left:732px;top:5108px;width:197px}
+.design-figure-canvas .df-PureOriginalFiltration-7{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-8{position:absolute;height:605px;left:58px;top:4829px;width:403px}
+.design-figure-canvas .df-PureOriginalFiltration-9{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-10{position:absolute;height:81px;left:268px;top:4993px;width:97px}
+.design-figure-canvas .df-PureOriginalFiltration-11{position:absolute;inset:-1.65% -1.37% -0.31% -0.26%}
+.design-figure-canvas .df-PureOriginalFiltration-12{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-13{position:absolute;height:18px;left:268px;top:5098px;width:97px}
+.design-figure-canvas .df-PureOriginalFiltration-14{position:absolute;inset:-7.41% -1.37% -1.39% -0.26%}
+.design-figure-canvas .df-PureOriginalFiltration-15{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-16{position:absolute;display:flex;height:120px;align-items:center;justify-content:center;left:248px;top:5191px;width:117px}
+.design-figure-canvas .df-PureOriginalFiltration-17{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-PureOriginalFiltration-18{height:120px;position:relative;width:117px}
+.design-figure-canvas .df-PureOriginalFiltration-19{position:absolute;inset:-1.11% -1.14% -0.21% -0.21%}
+.design-figure-canvas .df-PureOriginalFiltration-20{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-21{position:absolute;display:flex;height:231px;align-items:center;justify-content:center;left:248px;top:5191px;width:440px}
+.design-figure-canvas .df-PureOriginalFiltration-22{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-PureOriginalFiltration-23{height:231px;position:relative;width:440px}
+.design-figure-canvas .df-PureOriginalFiltration-24{position:absolute;inset:-0.58% -0.3% -0.11% 0}
+.design-figure-canvas .df-PureOriginalFiltration-25{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-26{position:absolute;height:52px;left:384px;pointer-events:none;border-radius:30px;top:4798px;width:304px}
+.design-figure-canvas .df-PureOriginalFiltration-27{position:absolute;background:#f0f0f3;inset:0;border-radius:30px}
+.design-figure-canvas .df-PureOriginalFiltration-28{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalFiltration-29{position:absolute;height:148px;left:732px;top:4898px;width:197px}
+.design-figure-canvas .df-PureOriginalFiltration-30{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-31{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;line-height:normal;left:388px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:4982px;width:198px}
+.design-figure-canvas .df-PureOriginalFiltration-32{position:absolute;height:87px;left:268px;top:5011px;width:416px}
+.design-figure-canvas .df-PureOriginalFiltration-33{position:absolute;inset:-1.53% -0.32% -0.29% 0}
+.design-figure-canvas .df-PureOriginalFiltration-34{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-35{position:absolute;height:39px;left:390px;pointer-events:none;border-radius:30px;top:5020px;width:298px}
+.design-figure-canvas .df-PureOriginalFiltration-36{position:absolute;background:#f0f0f3;inset:0;border-radius:30px}
+.design-figure-canvas .df-PureOriginalFiltration-37{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalFiltration-38{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;line-height:normal;left:489px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5026px;width:272px}
+.design-figure-canvas .df-PureOriginalFiltration-39{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;line-height:normal;left:728px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5050px;width:159px}
+.design-figure-canvas .df-PureOriginalFiltration-40{position:absolute;height:56px;left:663px;pointer-events:none;border-radius:30px;top:5083px;width:350px}
+.design-figure-canvas .df-PureOriginalFiltration-41{position:absolute;background:#f0f0f3;inset:0;border-radius:30px}
+.design-figure-canvas .df-PureOriginalFiltration-42{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalFiltration-43{position:absolute;display:flex;height:75px;align-items:center;justify-content:center;left:268px;top:5153px;width:420px}
+.design-figure-canvas .df-PureOriginalFiltration-44{transform:scaleY(-1);flex:none}
+.design-figure-canvas .df-PureOriginalFiltration-45{height:75px;position:relative;width:420px}
+.design-figure-canvas .df-PureOriginalFiltration-46{position:absolute;inset:-1.78% -0.32% -0.33% 0}
+.design-figure-canvas .df-PureOriginalFiltration-47{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-48{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;line-height:normal;left:397px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5195px;width:111px}
+.design-figure-canvas .df-PureOriginalFiltration-49{position:absolute;height:36px;left:388px;pointer-events:none;border-radius:30px;top:5233px;width:143px}
+.design-figure-canvas .df-PureOriginalFiltration-50{position:absolute;background:#f0f0f3;inset:0;border-radius:30px}
+.design-figure-canvas .df-PureOriginalFiltration-51{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalFiltration-52{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;line-height:normal;left:732px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5260px;width:242px}
+.design-figure-canvas .df-PureOriginalFiltration-53{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:154px;line-height:normal;left:431px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5238px;width:112px}
+.design-figure-canvas .df-PureOriginalFiltration-54{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;line-height:normal;left:396px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5397px;width:147px}
+.design-figure-canvas .df-PureOriginalFiltration-55{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;line-height:normal;left:417px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:4813px;width:352px}
+.design-figure-canvas .df-PureOriginalFiltration-56{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:48px;line-height:normal;left:714px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5101px;width:350px}
+.design-figure-canvas .df-PureOriginalFiltration-57{position:absolute;display:flex;height:115px;align-items:center;justify-content:center;left:732px;top:5311px;width:197px}
+.design-figure-canvas .df-PureOriginalFiltration-58{transform:rotate(-90deg);flex:none}
+.design-figure-canvas .df-PureOriginalFiltration-59{height:197px;position:relative;width:115px}
+.design-figure-canvas .df-PureOriginalFiltration-60{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-61{position:absolute;display:contents;left:769.07px;top:5339.01px}
+.design-figure-canvas .df-PureOriginalFiltration-62{position:absolute;display:flex;height:124.012px;align-items:center;justify-content:center;left:698.9px;top:5301.48px;width:230.076px}
+.design-figure-canvas .df-PureOriginalFiltration-63{transform:rotate(-90deg);flex:none}
+.design-figure-canvas .df-PureOriginalFiltration-64{height:230.076px;position:relative;width:124.012px}
+.design-figure-canvas .df-PureOriginalFiltration-65{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-PureOriginalFiltration-66{position:absolute;height:127.66%;left:-139.02%;max-width:none;width:315.41%}
+.design-figure-canvas .df-PureOriginalFiltration-67{position:absolute;height:87px;left:769px;top:5339px;width:114px}
+.design-figure-canvas .df-PureOriginalFiltration-68{position:absolute;inset:-4.92% -3.65% -3.45% -3.16%}
+.design-figure-canvas .df-PureOriginalFiltration-69{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalFiltration-70{position:absolute;height:56px;left:663px;pointer-events:none;border-radius:30px;top:4873px;width:350px}
+.design-figure-canvas .df-PureOriginalFiltration-71{position:absolute;background:#f0f0f3;inset:0;border-radius:30px}
+.design-figure-canvas .df-PureOriginalFiltration-72{position:absolute;inset:0;border-radius:inherit}
+.design-figure-canvas .df-PureOriginalFiltration-73{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:48px;line-height:normal;left:769px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:4891px;width:312px}
+.design-figure-canvas .df-PureOriginalFiltration-74{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;line-height:normal;left:732px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5434px;width:319px}
+.design-figure-canvas .df-PureOriginalElectronics-0{position:absolute;height:185px;left:87px;top:5951px;width:317px}
+.design-figure-canvas .df-PureOriginalElectronics-1{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalElectronics-2{position:absolute;height:181px;left:245px;top:5689px;width:160px}
+.design-figure-canvas .df-PureOriginalElectronics-3{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalElectronics-4{position:absolute;height:181px;left:87px;top:5689px;width:160px}
+.design-figure-canvas .df-PureOriginalElectronics-5{position:absolute;inset:0;max-width:none;object-fit:cover;object-position:bottom;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalElectronics-6{position:absolute;display:contents;left:139.68px;top:5726.87px}
+.design-figure-canvas .df-PureOriginalElectronics-7{position:absolute;height:177.972px;left:250.39px;top:5686.42px;width:147.099px}
+.design-figure-canvas .df-PureOriginalElectronics-8{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-PureOriginalElectronics-9{position:absolute;height:135.15%;left:-129.9%;max-width:none;top:-13.03%;width:229.9%}
+.design-figure-canvas .df-PureOriginalElectronics-10{position:absolute;height:172.302px;left:78.12px;top:5689.25px;width:151.939px}
+.design-figure-canvas .df-PureOriginalElectronics-11{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-PureOriginalElectronics-12{position:absolute;height:135.15%;max-width:none;top:-13.03%;width:229.9%}
+.design-figure-canvas .df-PureOriginalElectronics-13{position:absolute;height:94px;left:140px;top:5727px;width:238px}
+.design-figure-canvas .df-PureOriginalElectronics-14{position:absolute;inset:-4.72% -1.57% -4.31% -1.66%}
+.design-figure-canvas .df-PureOriginalElectronics-15{display:block;max-width:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalElectronics-16{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:56px;font-style:italic;line-height:normal;left:89px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5882px;width:400px}
+.design-figure-canvas .df-PureOriginalElectronics-17{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:56px;font-style:italic;line-height:normal;left:87px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:6147px;width:351px}
+.design-figure-canvas .df-PureOriginalElectronics-18{position:absolute;height:383px;left:359px;top:5753px;width:510px}
+.design-figure-canvas .df-PureOriginalElectronics-19{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.design-figure-canvas .df-PureOriginalElectronics-20{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:700;height:23px;line-height:normal;left:94px;--df-font-size:20px;font-size:var(--df-font-size);color:#fff;top:5837px;width:342px}
+.design-figure-canvas .df-PureOriginalElectronics-21{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:700;height:23px;line-height:normal;left:255px;--df-font-size:20px;font-size:var(--df-font-size);color:#fff;top:5837px;width:342px}
+.design-figure-canvas .df-PureOriginalElectronics-22{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:23px;font-style:italic;line-height:normal;left:416px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5992px;width:254px}
+.design-figure-canvas .df-PureOriginalElectronics-23{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:24px;font-style:italic;line-height:normal;left:512px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5732px;width:212px}
+.design-figure-canvas .df-PureOriginalElectronics-24{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:25px;font-style:italic;line-height:normal;left:658px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:5784px;width:201px}
+.design-figure-canvas .df-PureOriginalElectronics-25{overflow-wrap:break-word;position:absolute;font-family:inherit;font-weight:400;height:25px;font-style:italic;line-height:normal;left:504px;color:#142e6f;--df-font-size:20px;font-size:var(--df-font-size);top:6115px;width:217px}
+.design-figure-canvas .df-PureOriginalElectronics-26{position:absolute;height:491px;left:843px;top:5678px;width:305px}
+.design-figure-canvas .df-PureOriginalElectronics-27{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.design-figure-canvas .df-PureOriginalElectronics-28{position:absolute;height:105.3%;left:-61.69%;max-width:none;top:-0.1%;width:301.56%}
+
+.design-figure[data-locale=en] p[class]{font-size:calc(var(--df-font-size,24px) * .85);line-height:1.15}
+
+.phone-shell{position:relative;isolation:isolate}.design-figure-canvas .phone-shell-frame{position:absolute;inset:0;width:100%;height:100%;max-width:none;z-index:1}.design-figure-canvas .phone-shell-screen{position:absolute;left:4.6%;top:1.7%;width:91.4%;height:95.8%;object-fit:fill;border-radius:8% / 3.7%;max-width:none;z-index:2}
+
+/* Preserve Figma local mask coordinates for highlighted image regions. */
+.design-figure-canvas .df-VitalOriginalTests-28{mask-repeat:no-repeat;mask-mode:alpha;mask-position:18.552px 5.646px;mask-size:54.851px 43.559px}
+.design-figure-canvas .df-VitalOriginalTests-39{mask-repeat:no-repeat;mask-mode:alpha;mask-position:12.099px 25.006px;mask-size:57.271px 67.758px}
+.design-figure-canvas .df-VitalOriginalTests-48{mask-repeat:no-repeat;mask-mode:alpha;mask-position:11.293px 42.752px;mask-size:33.879px 65.338px}
+.design-figure-canvas .df-VitalOriginalTests-60{mask-repeat:no-repeat;mask-mode:alpha;mask-position:12.906px 37.911px;mask-size:49.205px 35.492px}
+.design-figure-canvas .df-VitalOriginalTests-69{mask-repeat:no-repeat;mask-mode:alpha;mask-position:14.52px 12.1px;mask-size:52.431px 50.012px}
+.design-figure-canvas .df-VitalOriginalTests-78{mask-repeat:no-repeat;mask-mode:alpha;mask-position:0.807px 64.53px;mask-size:54.851px 31.459px}
+.design-figure-canvas .df-VitalOriginalTests-87{mask-repeat:no-repeat;mask-mode:alpha;mask-position:0.807px 27.426px;mask-size:68.564px 88.729px}
+.design-figure-canvas .df-PureOriginalElectronics-7{mask-repeat:no-repeat;mask-mode:alpha;mask-position:-110.703px 40.447px;mask-size:240.362px 93.84px}
+.design-figure-canvas .df-PureOriginalElectronics-10{mask-repeat:no-repeat;mask-mode:alpha;mask-position:61.563px 37.615px;mask-size:240.362px 93.84px}
+
+.design-figure-canvas .df-PureOriginalFiltration-64{mask-repeat:no-repeat;mask-mode:alpha;mask-position:70.165px 37.53px;mask-size:113.406px 86.482px}
+.design-figure-canvas .df-PureOriginalSystem-80{left:1060px;top:3290px;width:120px}
+.design-figure-canvas .df-PureOriginalSystem-77{left:170px;top:3350px;width:170px}
+.design-figure-canvas .df-PureOriginalFiltration-54{top:5400px}
+/* Vertical connectors rotate around the source's zero-width center line. */
+.design-figure-canvas .df-PureOriginalSystem-39,.design-figure-canvas .df-PureOriginalSystem-44,.design-figure-canvas .df-PureOriginalSystem-49,.design-figure-canvas .df-PureOriginalSystem-54{width:0}

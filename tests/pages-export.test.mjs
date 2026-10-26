@@ -39,3 +39,20 @@ test('current PNGs ground the four main cases; unfinished work stays in progress
  assert.ok(projects.find(p=>p.slug==='tacchat').role.zh.includes('第二作者'));
  assert.ok(projects.find(p=>p.slug==='ice-chamber').contribution.zh.includes('主导用户访谈与测试'));
 });
+
+
+test('restored figures keep device frames, annotations and student-page endings',async()=>{
+ for(const prefix of ['', '/en']){
+  for(const p of projects.filter(p=>p.student)){
+   const html=await readFile(`out${prefix}/project/${p.slug}/index.html`,'utf8');
+   assert.doesNotMatch(html,/class="case-next"/,`${prefix}/${p.slug}: no unrelated next project`);
+  }
+  const vital=await readFile(`out${prefix}/project/vitalride/index.html`,'utf8');
+  assert.equal((vital.match(/class="phone-shell"/g)||[]).length,9,'all nine native phone frames remain');
+  assert.ok(vital.includes(prefix ? 'Sensor tests, readings and annotations' : '传感器测试、数据与标注'));
+  assert.ok(vital.includes(prefix ? 'Rider use-scenario storyboard' : '骑手使用场景故事板'));
+  const pure=await readFile(`out${prefix}/project/purelink/index.html`,'utf8');
+  for(const label of prefix ? ['TDS sensor','Turbidity sensor','UV lamp'] : ['TDS 传感器','浊度传感器','紫外线灯'])assert.ok(pure.includes(label));
+  assert.ok(pure.includes('restored-pure/'));
+ }
+});

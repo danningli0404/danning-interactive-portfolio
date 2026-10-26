@@ -2,7 +2,7 @@
   {
     "slug": "tacchat",
     "title": "TacChat",
-    "theme": "#edcab0",
+    "theme": "#f3ede3",
     "category": {
       "zh": "无障碍研究 / 触觉交互",
       "en": "Accessibility / Tactile interaction"
@@ -193,7 +193,7 @@
       "Blender",
       "Fusion"
     ],
-    "cover": "/figma/vital/00.webp",
+    "cover": "/figma/vital/person-clean.webp",
     "sections": [
       {
         "title": {
