@@ -38,3 +38,9 @@
 @media(max-width:600px){.sense-hero-media{padding-left:24px;padding-bottom:12px}.sense-hero-media>img:first-child{width:27%}.sense-hero-media>img:last-child,.sense-research .image-zoom-trigger,.sense-device-layout>img{border-radius:8px}.sense-research{gap:20px}.sense-device-layout{gap:18px}.sense-app-grid{gap:20px 12px}.vital-quote{font-size:13px;padding:28px 25px;margin-left:auto;margin-right:auto;text-align:center}}
 
 .sense-onboarding{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,1fr);gap:15px;align-items:start;margin-top:15px}.sense-onboarding img{width:100%;height:auto}.vital-design .design-figure{margin:45px 0}.vital-story .design-figure{margin-top:30px}
+
+/* Match the source figure proportions and remove the duplicate PureLink screen. */
+.faithful-canvas .sense-quotes>img.quote-person-one{height:auto;aspect-ratio:203/164;object-fit:fill}
+.faithful-canvas .sense-quotes>img.quote-person-two{height:auto;aspect-ratio:185/296;object-fit:fill}
+.pure-product-ui{grid-template-columns:2fr 3fr}
+.pure-product-ui>.pure-phone-grid{grid-template-columns:repeat(3,1fr)}

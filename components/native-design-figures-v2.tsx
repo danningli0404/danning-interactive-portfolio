@@ -238,7 +238,7 @@ export function VitalOriginalTests({locale = 'zh'}:{locale?:'zh'|'en'}){return <
         {locale === 'zh' ? "测量体温" : "Temperature measurement"}</p>
 <p className="df-VitalOriginalTests-130" data-node-id="1:1464">
         {locale === 'zh' ? "摔倒" : "Fall detected"}</p></DesignFigure>}
-export function VitalOriginalStory({locale = 'zh'}:{locale?:'zh'|'en'}){return <DesignFigure locale={locale} x={140} y={5345} width={930} height={690} canvasWidth={1251} canvasHeight={6150} label="VitalOriginalStory"><div className="df-VitalOriginalStory-0" data-node-id="1:1384">
+export function VitalOriginalStory({locale = 'zh'}:{locale?:'zh'|'en'}){return <DesignFigure locale={locale} x={140} y={5345} width={930} height={690} canvasWidth={1251} canvasHeight={6150} label="VitalOriginalStory"><div className="vital-story-caption-bg vital-story-caption-bg-three" data-node-id="1:1376" aria-hidden="true"/><div className="vital-story-caption-bg vital-story-caption-bg-four" data-node-id="1:1383" aria-hidden="true"/><div className="df-VitalOriginalStory-0" data-node-id="1:1384">
         <div className="df-VitalOriginalStory-1">
           <div className="df-VitalOriginalStory-2"/>
         </div>
