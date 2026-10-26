@@ -1,0 +1,772 @@
+[
+  {
+    "file": "/figma/tac/00.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "img20200403Logoupdate081",
+    "nativeSize": [
+      3710,
+      2138
+    ]
+  },
+  {
+    "file": "/figma/tac/01.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "imgImageRemovebgPreview1",
+    "nativeSize": [
+      612,
+      408
+    ]
+  },
+  {
+    "file": "/figma/tac/02.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "imgImageRemovebgPreview131",
+    "nativeSize": [
+      449,
+      556
+    ]
+  },
+  {
+    "file": "/figma/tac/03.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "imgImageRemovebgPreview121",
+    "nativeSize": [
+      450,
+      554
+    ]
+  },
+  {
+    "file": "/figma/tac/05.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "imgImageRemovebgPreview111",
+    "nativeSize": [
+      454,
+      549
+    ]
+  },
+  {
+    "file": "/figma/tac/06.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "img21",
+    "nativeSize": [
+      1980,
+      2640
+    ]
+  },
+  {
+    "file": "/figma/tac/07.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "imgFindingsC1",
+    "nativeSize": [
+      348,
+      419
+    ]
+  },
+  {
+    "file": "/figma/tac/10.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "imgUeq1",
+    "nativeSize": [
+      768,
+      458
+    ]
+  },
+  {
+    "file": "/figma/tac/13.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "imgImgV302RvF17276C7E5Cb422AB3Eb11B58992095G1",
+    "nativeSize": [
+      1024,
+      768
+    ]
+  },
+  {
+    "file": "/figma/tac/14.webp",
+    "source": "Figma original image fill",
+    "project": "tac",
+    "layerAsset": "imgImgV302RvD7Cdfc8A21Da4780AccfF494Cd1Af0Fg1",
+    "nativeSize": [
+      1024,
+      768
+    ]
+  },
+  {
+    "file": "/figma/sense/01.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "img5",
+    "nativeSize": [
+      2560,
+      1440
+    ]
+  },
+  {
+    "file": "/figma/sense/03.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImgV302R5C6D6401FE02844858C2818950C52D4EgRemovebgPreview1",
+    "nativeSize": [
+      433,
+      577
+    ]
+  },
+  {
+    "file": "/figma/sense/04.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImgV302R548B095B6398D49Da96E5046Af1E9E7FgRemovebgPreview1",
+    "nativeSize": [
+      489,
+      510
+    ]
+  },
+  {
+    "file": "/figma/sense/18.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "img14",
+    "nativeSize": [
+      4096,
+      2643
+    ]
+  },
+  {
+    "file": "/figma/sense/19.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "img1",
+    "nativeSize": [
+      2730,
+      1535
+    ]
+  },
+  {
+    "file": "/figma/sense/20.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "img6",
+    "nativeSize": [
+      4096,
+      2867
+    ]
+  },
+  {
+    "file": "/figma/sense/02.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage193",
+    "nativeSize": [
+      1080,
+      1620
+    ]
+  },
+  {
+    "file": "/figma/sense/05.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage24",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/06.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage25",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/07.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage26",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/08.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage27",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/10.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage29",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/11.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage30",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/12.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage31",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/09.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage28",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/13.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage32",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/15.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage34",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/16.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage35",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/17.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage36",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/sense/14.webp",
+    "source": "Figma original image fill",
+    "project": "sense",
+    "layerAsset": "imgImage33",
+    "nativeSize": [
+      830,
+      1686
+    ]
+  },
+  {
+    "file": "/figma/vital/13.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImage5",
+    "nativeSize": [
+      786,
+      1704
+    ]
+  },
+  {
+    "file": "/figma/vital/15.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImage3",
+    "nativeSize": [
+      786,
+      1704
+    ]
+  },
+  {
+    "file": "/figma/vital/01.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImage2",
+    "nativeSize": [
+      786,
+      1704
+    ]
+  },
+  {
+    "file": "/figma/vital/12.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgVector5",
+    "nativeSize": [
+      321,
+      695
+    ]
+  },
+  {
+    "file": "/figma/vital/14.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImage6",
+    "nativeSize": [
+      786,
+      1704
+    ]
+  },
+  {
+    "file": "/figma/vital/16.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImage7",
+    "nativeSize": [
+      786,
+      1704
+    ]
+  },
+  {
+    "file": "/figma/vital/00.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "img1",
+    "nativeSize": [
+      2304,
+      4096
+    ]
+  },
+  {
+    "file": "/figma/vital/35.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgYf1RemovebgPreview2",
+    "nativeSize": [
+      375,
+      666
+    ]
+  },
+  {
+    "file": "/figma/vital/17.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImage21",
+    "nativeSize": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "/figma/vital/26.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImage29",
+    "nativeSize": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "/figma/vital/20.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImgV302S1103966Fe8Bc047379E54E509536Cb7FgRemovebgPreview1",
+    "nativeSize": [
+      433,
+      577
+    ]
+  },
+  {
+    "file": "/figma/vital/22.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImgV302S156Dbff7069B94Af9B863B43Bc969C65GRemovebgPreview11",
+    "nativeSize": [
+      433,
+      577
+    ]
+  },
+  {
+    "file": "/figma/vital/24.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImgV302S1Ea75Db098F1A425D9852Aa83C88F536GRemovebgPreview1",
+    "nativeSize": [
+      433,
+      577
+    ]
+  },
+  {
+    "file": "/figma/vital/27.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImgV302S1Cca8E92AB8864C48A41D24D1F67Da16GRemovebgPreview1",
+    "nativeSize": [
+      433,
+      577
+    ]
+  },
+  {
+    "file": "/figma/vital/29.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImgV302S1F6E3Bdac15C4469884B492E3203A2DagRemovebgPreview1",
+    "nativeSize": [
+      433,
+      577
+    ]
+  },
+  {
+    "file": "/figma/vital/31.webp",
+    "source": "Figma original image fill",
+    "project": "vital",
+    "layerAsset": "imgImgV302S1762Bee3708914C1C8Be25C2Bc2317D7GRemovebgPreview1",
+    "nativeSize": [
+      433,
+      577
+    ]
+  },
+  {
+    "file": "/figma/pure/02.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImgV302Qg5D58919A62Bb46EeAf152227A8Cd415GRemovebgPreview1",
+    "nativeSize": [
+      339,
+      736
+    ]
+  },
+  {
+    "file": "/figma/pure/09.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImgV302Qg48Feaf075Ed04431951DB1D3C8D9F25GRemovebgPreview1",
+    "nativeSize": [
+      339,
+      736
+    ]
+  },
+  {
+    "file": "/figma/pure/05.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImgV302QgD7033B2921E844Be8Ec680E0A300879GRemovebgPreview1",
+    "nativeSize": [
+      339,
+      736
+    ]
+  },
+  {
+    "file": "/figma/pure/06.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImgV302Qg495A7D42466942968Cc16311277C601GRemovebgPreview1",
+    "nativeSize": [
+      339,
+      736
+    ]
+  },
+  {
+    "file": "/figma/pure/03.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "img20250820175310129713",
+    "nativeSize": [
+      917,
+      511
+    ]
+  },
+  {
+    "file": "/figma/pure/04.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage49",
+    "nativeSize": [
+      1080,
+      810
+    ]
+  },
+  {
+    "file": "/figma/pure/12.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "img8494577Af6E34F52Bbacffd6Fa5Fe68D1",
+    "nativeSize": [
+      1280,
+      960
+    ]
+  },
+  {
+    "file": "/figma/pure/10.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgF9549C69E09Bebcff2Dca35Eabc4Ed7E1",
+    "nativeSize": [
+      1179,
+      2556
+    ]
+  },
+  {
+    "file": "/figma/pure/11.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgE7Ebfcf4C06674319E5C4E1E9B7A06251",
+    "nativeSize": [
+      1592,
+      1280
+    ]
+  },
+  {
+    "file": "/figma/pure/13.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "img87Db8845Dc7C87D1917F2A7606Ca75121",
+    "nativeSize": [
+      1279,
+      1706
+    ]
+  },
+  {
+    "file": "/figma/pure/21.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "img1",
+    "nativeSize": [
+      4000,
+      4000
+    ]
+  },
+  {
+    "file": "/figma/pure/26.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "img3",
+    "nativeSize": [
+      2731,
+      4096
+    ]
+  },
+  {
+    "file": "/figma/pure/24.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "img4A41Cd5D7671A329282Ea107Aa0672671",
+    "nativeSize": [
+      1280,
+      960
+    ]
+  },
+  {
+    "file": "/figma/pure/27.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "img0C5Eb5727Aea6C0F49Fef05Aefae71Dc1",
+    "nativeSize": [
+      1280,
+      960
+    ]
+  },
+  {
+    "file": "/figma/pure/23.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgA81F3A9C64186105D364371Be73E15Da1",
+    "nativeSize": [
+      1280,
+      960
+    ]
+  },
+  {
+    "file": "/figma/pure/25.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "img300Dc65D069929D4D3Bef53D0A15B8391",
+    "nativeSize": [
+      1707,
+      1280
+    ]
+  },
+  {
+    "file": "/figma/pure/22.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage51",
+    "nativeSize": [
+      600,
+      600
+    ]
+  },
+  {
+    "file": "/figma/pure/31.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgBcb7C7Ef05Ab4F8180374D9E6C4Cedf0PreviewJpegTplvA9Rns2Rl98ImagePreWatermark161",
+    "nativeSize": [
+      1024,
+      683
+    ]
+  },
+  {
+    "file": "/figma/pure/33.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgBcb7C7Ef05Ab4F8180374D9E6C4Cedf0PreviewJpegTplvA9Rns2Rl98ImagePreWatermark164",
+    "nativeSize": [
+      2508,
+      1672
+    ]
+  },
+  {
+    "file": "/figma/pure/30.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImgV302Qo8545F7C6C6D64C1FBd9689E3E295C9Bg1",
+    "nativeSize": [
+      1024,
+      768
+    ]
+  },
+  {
+    "file": "/figma/pure/34.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImageRemovebgPreview1",
+    "nativeSize": [
+      577,
+      433
+    ]
+  },
+  {
+    "file": "/figma/pure/39.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage54",
+    "nativeSize": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "/figma/pure/37.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImgV302Qo9Fa38C16F3B347DfB189637E16F4210G3",
+    "nativeSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "file": "/figma/pure/38.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImgV302QoD71Da46A34Af4D218Cc7390B9698357G2",
+    "nativeSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "file": "/figma/pure/14.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage42",
+    "nativeSize": [
+      766,
+      1570
+    ]
+  },
+  {
+    "file": "/figma/pure/15.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage50",
+    "nativeSize": [
+      766,
+      1570
+    ]
+  },
+  {
+    "file": "/figma/pure/16.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage43",
+    "nativeSize": [
+      766,
+      1570
+    ]
+  },
+  {
+    "file": "/figma/pure/17.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage48",
+    "nativeSize": [
+      766,
+      1570
+    ]
+  },
+  {
+    "file": "/figma/pure/18.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage45",
+    "nativeSize": [
+      766,
+      1570
+    ]
+  },
+  {
+    "file": "/figma/pure/19.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage47",
+    "nativeSize": [
+      766,
+      1570
+    ]
+  },
+  {
+    "file": "/figma/pure/20.webp",
+    "source": "Figma original image fill",
+    "project": "pure",
+    "layerAsset": "imgImage46",
+    "nativeSize": [
+      766,
+      1570
+    ]
+  }
+]

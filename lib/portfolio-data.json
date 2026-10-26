@@ -23,7 +23,7 @@
       "MAXQDA",
       "Overleaf"
     ],
-    "cover": "/current/tacchat-cover.webp",
+    "cover": "/figma/tac/01.webp",
     "sections": [
       {
         "title": {
@@ -109,7 +109,7 @@
       "Blender",
       "CAD"
     ],
-    "cover": "/current/sense-cover.webp",
+    "cover": "/figma/sense/01.webp",
     "sections": [
       {
         "title": {
@@ -193,7 +193,7 @@
       "Blender",
       "Fusion"
     ],
-    "cover": "/current/vital-cover.webp",
+    "cover": "/figma/vital/00.webp",
     "sections": [
       {
         "title": {
@@ -279,7 +279,7 @@
       "Arduino",
       "材料实验"
     ],
-    "cover": "/current/pure-cover.webp",
+    "cover": "/figma/pure/01.webp",
     "sections": [
       {
         "title": {
@@ -368,7 +368,7 @@
       "TTP223",
       "角色建模"
     ],
-    "cover": "/current/color-cover.webp",
+    "cover": "/figma/game-cover.webp",
     "sections": [
       {
         "title": {
@@ -442,7 +442,7 @@
       "CAD",
       "迭代原型"
     ],
-    "cover": "/summer/ice-chamber/prototype.jpg",
+    "cover": "/studio/ice-prototype.webp",
     "sections": [
       {
         "title": {
@@ -511,7 +511,7 @@
       "痛点定位",
       "实体原型"
     ],
-    "cover": "/summer/coco-carry/page-14.jpg",
+    "cover": "/studio/coco-open.png",
     "sections": [
       {
         "title": {

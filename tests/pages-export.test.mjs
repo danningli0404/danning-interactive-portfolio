@@ -17,7 +17,7 @@ test('18 bilingual pages retain current content and locale-specific contacts',as
    if(p.student)assert.ok(html.includes(p.contribution[l]),`${l}/${p.slug}: confirmed contribution`);
    if(!p.student && p.slug!=='color-showdown'){assert.ok(html.includes(`faithful-page faithful-${p.slug}`));assert.ok((html.match(/<p[ >]/g)||[]).length>6);}
    assert.ok(home.includes(`${base}${prefix}/project/${p.slug}`));assert.ok(html.includes(`mailto:${email}`));
-   for(const alt of ['','/en'])assert.ok(html.includes(`href="${base}${alt}/project/${p.slug}"`));
+   for(const alt of ['','/en'])assert.ok(html.includes(`href="${base}${alt}/project/${p.slug}#top"`));
   }
  }
 });
@@ -34,7 +34,7 @@ test('all local links, images and scripts resolve under the GitHub Pages subdire
  }}await walk('out');
 });
 test('current PNGs ground the four main cases; unfinished work stays in progress',()=>{
- for(const p of projects.slice(0,4)){assert.ok(p.cover.startsWith('/current/'));for(const s of p.sections)for(const image of s.images)assert.ok(image.startsWith('/current/'));}
+ for(const p of projects.slice(0,4)){assert.ok(p.cover.startsWith('/figma/'));for(const s of p.sections)for(const image of s.images)assert.ok(image.startsWith('/current/'));}
  assert.equal(projects.find(p=>p.slug==='headphone-comfort').progress,true);
  assert.ok(projects.find(p=>p.slug==='tacchat').role.zh.includes('第二作者'));
  assert.ok(projects.find(p=>p.slug==='ice-chamber').contribution.zh.includes('主导用户访谈与测试'));

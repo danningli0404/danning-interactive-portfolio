@@ -8,7 +8,7 @@ async function prepare(dir) {
     if (entry.isDirectory()) await prepare(file);
     else if (/\.(html|css|js|json|rsc|txt)$/.test(entry.name)) {
       const original = await readFile(file, 'utf8');
-      const updated = original.replace(/(?<![\w/-])\/(source-media|frame-assets|current|cutouts|projects|research|summer|fonts|atmosphere|assets|_next)(?=\/)/g, `${base}/$1`)
+      const updated = original.replace(/(?<![\w/-])\/(studio|figma|source-media|frame-assets|current|cutouts|projects|research|summer|fonts|atmosphere|assets|_next)(?=\/)/g, `${base}/$1`)
         .replace(/(?<![\w/-])\/(favicon\.svg|og\.png)(?=["'\\\s<])/g, `${base}/$1`);
       if (updated !== original) await writeFile(file, updated);
     }
