@@ -380,7 +380,8 @@
           "en": "I designed a contest between the player and robot KIKI around debates over creators’ rights in AI image training. The game uses actions and feedback to invite reflection on the unauthorized use of creative work."
         },
         "images": [
-          "/research/page-21.jpg"
+          "/figma/game-concept/10.webp",
+          "/figma/game-concept/03.webp"
         ]
       },
       {
@@ -393,7 +394,12 @@
           "en": "KIKI tries to convert the board to a target color. Players choose positions with a mouse, then use physical taps to change and lock tiles, interrupting the robot’s route. Similar colors and the effort of repeated intervention contribute to the game’s argument."
         },
         "images": [
-          "/research/page-22.jpg"
+          "/figma/game-play/03.webp",
+          "/figma/game-play/05.webp",
+          "/figma/game-play/11.webp",
+          "/figma/game-play/06.webp",
+          "/figma/game-play/07.webp",
+          "/figma/game-play/04.webp"
         ]
       },
       {
@@ -406,8 +412,19 @@
           "en": "Development brings together a TTP223 touch sensor, Arduino board, Unity scenes and code, and robot-character modeling. Physical input drives board feedback, supported by level selection, pause, and game-result interfaces."
         },
         "images": [
-          "/research/page-23.jpg",
-          "/research/page-24.jpg"
+          "/figma/game-development/00.webp",
+          "/figma/game-development/03.webp",
+          "/figma/game-development/12.webp",
+          "/figma/game-development/13.webp",
+          "/figma/game-development/14.webp",
+          "/figma/game-development/15.webp",
+          "/figma/game-development/07.webp",
+          "/figma/game-development/08.webp",
+          "/figma/game-play/13.webp",
+          "/figma/game-play/08.webp",
+          "/figma/game-play/09.webp",
+          "/figma/game-play/10.webp",
+          "/figma/game-play/12.webp"
         ]
       }
     ],
