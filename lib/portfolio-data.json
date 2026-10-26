@@ -434,7 +434,8 @@
     },
     "student": false,
     "progress": false,
-    "demo": "https://www.youtube.com/watch?v=yZNcYpi3fE4"
+    "demo": "https://www.youtube.com/watch?v=yZNcYpi3fE4",
+    "updating": true
   },
   {
     "slug": "ice-chamber",

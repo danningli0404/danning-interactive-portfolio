@@ -45,3 +45,9 @@
 .game-figure-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;align-items:start}.game-figure-grid .case-image{margin:24px 0 0}.game-figure-grid .image-zoom-trigger img{width:100%;height:auto;max-height:none;object-fit:contain}.game-figure-grid .case-image:last-child:nth-child(odd){grid-column:1/-1;max-width:720px;justify-self:center;width:100%}@media(max-width:560px){.game-figure-grid{grid-template-columns:1fr;gap:0}}
 
 .folio-home .folio-button{background:var(--mint)}.folio-home .folio-button:hover{background:#d8f3e7}
+
+.work-upload-status{position:absolute;left:23px;bottom:23px;z-index:2;display:inline-flex;align-items:center;gap:8px;padding:9px 13px;border:1px solid #bce9d54d;border-radius:30px;background:#102019e8;color:var(--mint);font-size:12px;line-height:1.5}
+.folio-case .case-upload-status{display:inline-flex;align-items:center;gap:9px;margin:0 0 22px;padding:9px 14px;border:1px solid #54715c66;border-radius:30px;background:#e3eee5;color:#244a37;font-size:14px;line-height:1.5}
+@media(max-width:600px){.work-upload-status{left:13px;bottom:13px;padding:7px 10px;font-size:10px}.folio-case .case-upload-status{font-size:12px}}
+
+.case-upload-status .live-dot{background:#3b775b;box-shadow:none}
