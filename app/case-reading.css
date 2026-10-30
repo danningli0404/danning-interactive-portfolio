@@ -1,0 +1,52 @@
+/* A short reading layer follows each original project cover. */
+.faithful-canvas .faithful-hero{margin-bottom:48px}
+.faithful-canvas .case-reading-overview{margin:0 0 60px;padding:28px 0 0;border-top:1px solid color-mix(in srgb,var(--frame-ink) 24%,transparent);border-bottom:1px solid color-mix(in srgb,var(--frame-ink) 24%,transparent);font-family:var(--sans)}
+.case-reading-overview>h2{font:500 21px/1.5 var(--sans);letter-spacing:0;margin:0 0 24px;color:var(--frame-ink)}
+.case-reading-overview dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 36px;margin:0 0 28px}
+.case-reading-overview dl>div{min-width:0}.case-reading-overview dt{font-size:11px;font-weight:600;line-height:1.7;letter-spacing:.04em;margin-bottom:7px;opacity:.74}
+.case-reading-overview dd{margin:0;font-size:14px;line-height:1.85;color:var(--frame-ink)}
+.case-reading-overview nav{display:flex;flex-wrap:wrap;gap:3px 22px;padding:16px 0;border-top:1px solid color-mix(in srgb,var(--frame-ink) 15%,transparent)}
+.case-reading-overview nav a{display:flex;align-items:center;gap:9px;padding:8px 0;font-size:12px;line-height:1.7;color:var(--frame-ink);border-bottom:1px solid transparent}
+.case-reading-overview nav a>span{font-size:10px;opacity:.6}.case-reading-overview nav a:hover{border-bottom-color:currentColor}
+.faithful-canvas .faithful-section-title{font:500 23px/1.5 var(--sans);letter-spacing:0;color:var(--frame-ink);margin:0 0 23px}
+.faithful-row>.faithful-section-title{grid-column:1/-1}.faithful-row:has(>.faithful-section-title){row-gap:0}
+.faithful-canvas section[id],.tactile-workflow-original[id]{scroll-margin-top:28px}
+.faithful-canvas .sense-validation{margin-top:85px;margin-bottom:40px}.faithful-canvas .sense-validation .sense-ending{margin:0!important}
+/* The source figure remains intact; its full-size live layers open in a separate reader. */
+.figure-reader{min-width:0}.figure-reader>.design-figure{margin-bottom:10px}
+.figure-reading-tools{display:flex;justify-content:flex-end;align-items:start;gap:16px;margin:0 0 25px;font-family:var(--sans)}
+.faithful-canvas .figure-reading-note{display:none;font-size:12px;line-height:1.8;margin:0;flex:1;min-width:0}
+.figure-expand{display:inline-flex;align-items:center;justify-content:center;gap:14px;flex:none;min-height:44px;padding:7px 12px;border:1px solid color-mix(in srgb,var(--frame-ink) 30%,transparent);background:transparent;border-radius:5px;font:12px/1.6 var(--sans);color:var(--frame-ink);cursor:pointer}
+.figure-expand:hover{background:color-mix(in srgb,var(--frame-ink) 6%,transparent)}
+.figure-expand:focus-visible,.figure-zoom-dialog button:focus-visible,.figure-zoom-viewport:focus-visible{outline:2px solid var(--frame-ink);outline-offset:3px}
+.figure-zoom-dialog{width:min(96vw,1280px);height:calc(100dvh - 40px);max-height:calc(100dvh - 40px);max-width:none;padding:0;border:1px solid color-mix(in srgb,var(--frame-ink) 25%,transparent);border-radius:10px;background:var(--frame-bg,#f7f7f2);color:var(--frame-ink,#243d2b);overflow:hidden;font-family:var(--sans)}
+.figure-zoom-dialog::backdrop{background:#101813d9;backdrop-filter:blur(4px)}
+.figure-zoom-panel{display:flex;flex-direction:column;height:100%;min-height:0}
+.figure-zoom-toolbar{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:14px 18px;border-bottom:1px solid color-mix(in srgb,var(--frame-ink) 20%,transparent);flex:none}
+.figure-zoom-toolbar h2{font:500 16px/1.5 var(--sans);letter-spacing:0;margin:0;min-width:0;color:inherit}
+.figure-zoom-controls{display:flex;align-items:center;gap:6px;flex:none}
+.figure-zoom-controls button{min-width:42px;min-height:42px;border:1px solid color-mix(in srgb,var(--frame-ink) 25%,transparent);border-radius:5px;color:inherit;background:transparent;cursor:pointer;font:20px/1 var(--sans)}
+.figure-zoom-controls button:disabled{opacity:.35;cursor:default}.figure-zoom-controls output{min-width:43px;text-align:center;font:11px/1.5 var(--sans);font-variant-numeric:tabular-nums}
+.figure-zoom-controls .figure-fit{font-size:11px;padding:5px 10px}.figure-zoom-controls .figure-zoom-close{margin-left:8px;font-size:27px}
+.faithful-canvas .figure-zoom-help{flex:none;font:12px/1.75 var(--sans);margin:0;padding:10px 18px;opacity:.78}
+.figure-zoom-viewport{overflow:auto;overscroll-behavior:contain;flex:1;min-height:0;padding:12px;-webkit-overflow-scrolling:touch;background:var(--frame-bg,#f7f7f2)}
+.figure-zoom-viewport .figure-zoom-stage{margin:0 auto;max-width:none;min-width:0;position:relative;overflow:hidden;flex:none}
+@media(max-width:600px){
+ .faithful-canvas .faithful-hero{margin-bottom:35px}.faithful-canvas .case-reading-overview{padding-top:22px;margin-bottom:45px}
+ .case-reading-overview>h2{font-size:20px;margin-bottom:20px}.case-reading-overview dl{grid-template-columns:1fr;gap:18px;margin-bottom:22px}.case-reading-overview dd{font-size:13px;line-height:1.85}
+ .case-reading-overview nav{gap:2px 17px;padding:12px 0}.case-reading-overview nav a{font-size:11px;gap:7px;padding:8px 0}
+ .faithful-canvas .faithful-section-title{font-size:20px;margin-bottom:20px}.faithful-canvas .sense-validation{margin-top:60px}
+ .figure-reading-tools{flex-direction:column;align-items:stretch;gap:10px}.faithful-canvas .figure-reading-note{display:block}.figure-expand{align-self:flex-end;min-height:44px;font-size:11px}
+ .figure-zoom-dialog{width:calc(100vw - 16px);height:calc(100dvh - 16px);max-height:calc(100dvh - 16px);border-radius:7px}
+ .figure-zoom-toolbar{display:block;padding:12px}.figure-zoom-toolbar h2{font-size:14px;margin-bottom:10px}.figure-zoom-controls{justify-content:flex-start;gap:5px}.figure-zoom-controls .figure-zoom-close{margin-left:auto}
+ .faithful-canvas .figure-zoom-help{font-size:11px;padding:8px 12px}.figure-zoom-viewport{padding:12px}
+}
+/* Keep this live service diagram at its designed size inside the scalable canvas. */
+.design-figure-canvas .sense-flow{position:absolute;left:0;right:0;top:20px;margin:0;display:grid;grid-template-columns:1fr .7fr .8fr 1.4fr;gap:30px;align-items:center;font:16px/1.45 var(--sans)}
+.design-figure-canvas .sense-people{gap:20px;font-size:48px}.design-figure-canvas .sense-people svg{width:48px;height:48px}
+.design-figure-canvas .sense-people small{font-size:15px;margin-top:8px}
+.design-figure-canvas .flow-need,.design-figure-canvas .sense-channels>span{padding:14px}
+.design-figure-canvas .sense-channels{gap:20px}.design-figure-canvas .sense-goals{gap:12px}
+.design-figure-canvas .sense-goals>span{font-size:14px;padding:16px;line-height:1.45}
+.design-figure-canvas .sense-flow>div:not(:last-child):after{font-size:22px}
+.design-figure-canvas .figure-flat-artwork{position:absolute;inset:0;width:100%;height:100%;max-width:none;object-fit:contain}

@@ -4,6 +4,7 @@ import './portfolio.css';
 import './faithful.css';
 import './native-figures-v2.css';
 import './color-showdown.css';
+import './case-reading.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://danningli0404.github.io/danning-interactive-portfolio'),

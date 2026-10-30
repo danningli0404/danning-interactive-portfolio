@@ -56,3 +56,22 @@ test('restored figures keep device frames, annotations and student-page endings'
   assert.ok(pure.includes('restored-pure/'));
  }
 });
+
+test('main cases offer localized overviews and unique working chapter anchors',async()=>{
+ const expectedReaders={'tacchat':1,'sense-together':1,'vitalride':3,'purelink':4};
+ for(const prefix of ['','/en'])for(const [slug,count] of Object.entries(expectedReaders)){
+  const html=decode(await readFile(`out${prefix}/project/${slug}/index.html`,'utf8'));
+  assert.ok(html.includes(prefix?'Project at a glance':'项目概览'));
+  assert.ok(html.includes(prefix?'My contribution':'我的工作'));
+  const nav=html.match(/<nav aria-label="(?:项目章节|Project chapters)">([\s\S]*?)<\/nav>/)?.[1];
+  assert.ok(nav,`${prefix}/${slug}: chapter navigation`);
+  const anchors=[...nav.matchAll(/href="#([^"]+)"/g)].map(m=>m[1]);
+  assert.ok(anchors.length>=4);
+  for(const id of anchors){
+   assert.equal((html.match(new RegExp(`id="${id}"`,'g'))||[]).length,1,`${slug}: unique ${id}`);
+   assert.ok(html.includes(`id="${id}-title"`),`${slug}: readable heading for ${id}`);
+  }
+  assert.equal((html.match(/class="figure-expand"/g)||[]).length,count,`${slug}: all complex diagrams can open`);
+  assert.doesNotMatch(html,/class="figure-zoom-stage"/,'enlarged layers are created only when opened');
+ }
+});
